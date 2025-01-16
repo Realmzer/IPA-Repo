@@ -2429,16 +2429,50 @@
       "developerName" : "dayanch96",
       "subtitle": "YouTube Plus - Removes Ads and adds functionality",
       "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
-      "localizedDescription": "nYouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
-      "iconURL": "https://cdn1.realmzer.xyz//You_Tube_i_OS_2019_1-8b.png",
-      "tintColor": "ff4154",
+      "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
+      "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "19.49.7",
-      "versionDate" : "2024-12-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//You_Tube_Plus_5_0_2-7d.ipa",
-      "size": 115900000,
-      "title": "YouTube Plus (dayanch96)",
-      "url": "https://github.com/dayanch96/YTLite"
+      "version": "19.49.5",
+      "versionDate" : "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//ytpt_5_1_19_49_5-yn.ipa",
+      "size": 110469413,
+      "title": "YouTube Plus",
+      "url": "https://github.com/dayanch96/YTLite",
+      "versions" : [
+        {
+          "version": "19.49.5",
+          "date" : "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//ytpt_5_1_19_49_5-yn.ipa",
+          "size": 110469413
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "YouTube Plus iOS 14",
+      "bundleIdentifier": "com.google.ios14.youtube",
+      "developerName" : "dayanch96",
+      "subtitle": "YouTube Plus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
+      "tintColor": "fcd2c9",
+      "category": "entertainment",
+      "version": "19.20.2",
+      "versionDate" : "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//ytpt_5_1_19_20_2-DD.ipa",
+      "size": 107912700,
+      "title": "YouTube Plus iOS 14",
+      "url": "https://github.com/dayanch96/YTLite",
+      "versions" : [
+        {
+          "version": "19.20.2",
+          "date" : "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//ytpt_5_1_19_20_2-DD.ipa",
+          "size": 107912700
+        }
+      ]
     },
     {
       "beta": false,
