@@ -2451,7 +2451,7 @@
     {
       "beta": false,
       "name" : "YouTube Plus + Tweaks",
-      "bundleIdentifier": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtubetweak",
       "developerName" : "dayanch96",
       "subtitle": "YouTube Plus - Removes Ads and adds functionality",
       "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
