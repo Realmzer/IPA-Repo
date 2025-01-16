@@ -5377,6 +5377,31 @@
     },
     {
       "beta": false,
+      "name": "RetroArch", 
+      "bundleIdentifier": "com.libretro.RetroArchiOS11",
+      "developerName": "libretro",
+      "subtitle": "RetroArch is a frontend for emulators, game engines and media players",
+      "description": "RetroArch is a frontend for emulators, game engines and media players.\nAmong other things, it enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.In addition to this, you are able to run original game discs (CDs) from RetroArch.\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!\n\nStatus: ✅🔥",
+      "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\nAmong other things, it enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.In addition to this, you are able to run original game discs (CDs) from RetroArch.\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!\n\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//Icon_83_5_3-B5.png",
+      "tintColor": "333333",
+      "category": "games",
+      "version": "1.20.0",
+      "date" : "2025-1-15",
+      "downloadURL": "https://cdn1.realmzer.xyz//Retro_Arch-J8.ipa",
+      "size": 430355530,
+      "title": "RetroArch",
+      "versions" : [
+        {
+          "version": "1.20.0",
+          "date" : "2025-1-15",
+          "downloadURL": "https://cdn1.realmzer.xyz//Retro_Arch-J8.ipa",
+          "size": 430355530
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Deltarune Chapter 1",
       "bundleIdentifier": "com.jockelholm.undertaledr",
       "subtitle": "Deltarune Chapter 1 - IOS Port",
