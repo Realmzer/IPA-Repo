@@ -2192,12 +2192,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "37.8.0",
-      "versionDate": "2024-12-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tokv37_8_0_AC_2_0moefixed-WI.ipa",
-      "size": 354717696,
+      "version": "38.20",
+      "versionDate": "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_AC_2_0_Moe-kR.ipa",
+      "size": 361847468,
       "title": "TikTokAC",
       "versions": [
+        {
+          "version": "38.20",
+          "date": "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_AC_2_0_Moe-kR.ipa",
+          "size": 361847468
+        },
         {
           "version": "37.8.0",
           "date": "2024-12-18",
@@ -2802,6 +2808,31 @@
         "date" : "2024-11-17",
         "downloadURL": "https://cdn1.realmzer.xyz//Cash_App_V3_esign-TK.ipa",
         "size": 16207872
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "AppGroupCheck",
+      "bundleIdentifier": "com.choco",
+      "developerName" : "@brits8882",
+      "subtitle": "Check if AppGroups is setup correctly on your certificate ",
+      "description": "Check if AppGroups is setup correctly on your certificate\nFrom: @SultanModsX\nStatus: ✅",
+      "localizedDescription": "Check if AppGroups is setup correctly on your certificate\nFrom: @SultanModsX\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//choco-TA.png",
+      "tintColor": "c26265",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//App_Group_Check-cP.ipa",
+      "size": 561986,
+      "title": "AppGroupCheck",
+      "versions" : [
+        {
+          "version": "1.0",
+          "date" : "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//App_Group_Check-cP.ipa",
+          "size": 561986
         }
       ]
     },
