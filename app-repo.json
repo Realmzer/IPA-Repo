@@ -1720,12 +1720,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "263.0_69988",
-      "versionDate": "2025-1-14",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_6-oy.ipa",
-      "size": 89001617,
+      "version": "263.0_70220",
+      "versionDate": "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_7-ME.ipa",
+      "size": 88999865,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "263.0_70220",
+          "date" : "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_7-ME.ipa",
+          "size": 88999865
+        },
         {
           "version": "263.0_69988",
           "date" : "2025-1-14",
@@ -5261,13 +5267,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Iv0_D_Ty_QA_400x400-De.png",
       "tintColor": "1ac8fb",
       "category": "games",
-      "version": "2.2.0",
-      "versionDate" : "2024-11-28",
-      "downloadURL": "https://cdn1.realmzer.xyz//Provenance-E3.ipa",
-      "size": 33980416,
+      "version": "3.0.2",
+      "versionDate" : "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//Provenance_1-7x.ipa",
+      "size": 599594548,
       "title": "Provenance",
       "url": "https://github.com/Provenance-Emu/Provenance/",
       "versions" : [
+        {
+          "version": "3.0.2",
+          "date" : "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//Provenance_1-7x.ipa",
+          "size": 599594548
+        },
         {
           "version": "2.2.0",
           "date" : "2024-11-28",
