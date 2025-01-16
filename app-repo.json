@@ -2450,6 +2450,32 @@
     },
     {
       "beta": false,
+      "name" : "YouTube Plus + Tweaks",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName" : "dayanch96",
+      "subtitle": "YouTube Plus - Removes Ads and adds functionality",
+      "description": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "localizedDescription": "YouTube with the YouTubePlus Tweak\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
+      "tintColor": "fcd2c9",
+      "category": "entertainment",
+      "version": "19.49.5",
+      "versionDate" : "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//ytpt_5_1_19_49_5-yn.ipa",
+      "size": 110469413,
+      "title": "YouTube Plus + Tweaks",
+      "url": "https://github.com/dayanch96/YTLite",
+      "versions" : [
+        {
+          "version": "19.49.5",
+          "date" : "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//ytpt_5_1_19_49_5-yn.ipa",
+          "size": 110469413
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "YouTube Plus iOS 14",
       "bundleIdentifier": "com.google.ios14.youtube",
       "developerName" : "dayanch96",
