@@ -8,8 +8,7 @@
   "description": "Your all in one IPA repository.\n\nStatus Legend:\n✅ = Working/Functional\n❌ = Not Working or discontinued\n✨ = Tweak\n❔ = Unknown Source\n🔵 = TrollStore/CoreTrust only\n🐞 = Uses Exploit\n💸 = Paid, not Cracked\n🔥 = Recommended by maintainer\n🌟= Premium features unlocked and cracked",
   "tintColor": "A020F0",
   "featuredApps": [
-    "com.google.ios.youtubeliteplus",
-    "com.google.ios.youtubeenhanced",
+    "com.google.ios.youtubetweak",
     "com.spotify.client",
     "com.kdt.sparsebox",
     "com.kdt.livecontainer"
