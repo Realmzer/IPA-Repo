@@ -2452,8 +2452,8 @@
       "bundleIdentifier": "com.burbn.instagram2", 
       "developerName": "Meta & objec c", 
       "subtitle": "Up to date Instagram Tweak",
-      "description": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
-      "localizedDescription": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
+      "description": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅\nFrom: @SultanModsX",
+      "localizedDescription": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅\nFrom: @SultanModsX",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -2468,6 +2468,81 @@
           "date": "2025-1-17",
           "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_Theta1_2_Moe-6k.ipa",
           "size": 145428996
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Instagram AC", 
+      "bundleIdentifier": "com.burbn.instagram3", 
+      "developerName": "Meta & aJBbo", 
+      "subtitle": "Another free Instagram tweak",
+      "description": "This another free Instagram tweak.\nStatus: ✅\nFrom: @SultanModsX",
+      "localizedDescription": "This another free Instagram tweak.\nStatus: ✅\nFrom: @SultanModsX",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "363.0-1.1",
+      "date": "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_0_AC_1_1_Moe_Open_Safari_Extension-Sq.ipa",
+      "size": 144572472,
+      "title": "Instagram AC",
+      "versions": [
+        {
+          "version": "363.0-1.1",
+          "date": "2025-1-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_0_AC_1_1_Moe_Open_Safari_Extension-Sq.ipa",
+          "size": 144572472
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "Instagram NYX", 
+      "bundleIdentifier": "com.burbn.instagram4", 
+      "developerName": "Meta", 
+      "subtitle": "Paid Instagram Tweak",
+      "description": "Supercharge your experience on Instagram!\nStatus: ✅\nFrom: @SultanModsX",
+      "localizedDescription": "Supercharge your experience on Instagram!\nStatus: ✅\nFrom: @SultanModsX",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "363.0-1.4.8",
+      "date": "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_NYX_1_4_8_Beta_Moe-Sa.ipa",
+      "size": 147863114,
+      "title": "Instagram NYX",
+      "versions": [
+        {
+          "version": "363.0-1.4.8",
+          "date": "2025-1-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_NYX_1_4_8_Beta_Moe-Sa.ipa",
+          "size": 147863114
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name": "Instagram BH", 
+      "bundleIdentifier": "com.burbn.instagram5", 
+      "developerName": "Meta", 
+      "subtitle": "Instagram Tweak",
+      "description": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
+      "localizedDescription": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "363.0-1.1",
+      "date": "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_BH_1_1_Moe-9j.ipa",
+      "size": 144735750,
+      "title": "Instagram BH",
+      "versions": [
+        {
+          "version": "363.0-1.1",
+          "date": "2025-1-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_BH_1_1_Moe-9j.ipa",
+          "size": 144735750
         }
       ]
     },
