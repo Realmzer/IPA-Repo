@@ -5530,7 +5530,7 @@
     {
       "beta": false,
       "name" : "Play!",
-      "bundleIdentifier": "net.nerd.iNDS",
+      "bundleIdentifier": "com.virtualapplications.play",
       "developerName" : "jpd002",
       "subtitle": "Play! - PlayStation2 Emulator",
       "description": "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.\nStatus: ✅",
