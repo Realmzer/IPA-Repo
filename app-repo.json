@@ -4095,6 +4095,31 @@
     },
     {
       "beta": false,
+      "name" : "AppDump3",
+      "bundleIdentifier": "cn.gblw.AppsDump3",
+      "developerName" : "gblw",
+      "subtitle": "Another App Decryptor",
+      "description": "AppDump3 is a user-friendly application designed for iOS devices, enabling users to effortlessly decrypt applications and store them as IPA packages.\nStatus: ✅🔵",
+      "localizedDescription": "AppDump3 is a user-friendly application designed for iOS devices, enabling users to effortlessly decrypt applications and store them as IPA packages.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//appdump2-8t.png",
+      "tintColor": "75edc9",
+      "category": "utilities",
+      "version": "3.5",
+      "versionDate" : "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Apps_Dump3-jP.tipa",
+      "size": 732310,
+      "title": "AppDump3",
+      "versions": [
+        {
+          "version": "3.5",
+          "date" : "2025-1-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Apps_Dump3-jP.tipa",
+          "size": 732310
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Roothide Bootstrap",
       "bundleIdentifier": "com.roothide.Bootstrap",
       "developerName" : "roothide",
