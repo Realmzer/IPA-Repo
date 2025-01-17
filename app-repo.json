@@ -3513,12 +3513,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
       "tintColor": "008afd",
       "category": "utilities",
-      "version": "2.10-23",
-      "versionDate" : "2025-01-14",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_10_23-Wd.tipa",
-      "size": 3487141,
+      "version": "2.11-25",
+      "versionDate" : "2025-01-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_11_25-sJ.tipa",
+      "size": 3487386,
       "title": "TrollFools",
       "versions": [
+        {
+          "version": "2.11-25",
+          "date" : "2025-01-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_11_25-sJ.tipa",
+          "size": 3487386
+        },
         {
           "version": "2.10-23",
           "date" : "2025-01-14",
@@ -3553,6 +3559,31 @@
     },
     {
       "beta": false,
+      "name" : "TrollFools iOS 14",
+      "bundleIdentifier": "wiki.qaq.TrollFools14",
+      "developerName" : "Lessica",
+      "subtitle": "In-place tweak injection with insert_dylib and ChOma",
+      "description": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
+      "tintColor": "008afd",
+      "category": "utilities",
+      "version": "2.11-25",
+      "versionDate" : "2025-01-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_11_25-uq.tipa",
+      "size": 5699241,
+      "title": "TrollFools iOS 14",
+      "versions": [
+        {
+          "version": "2.11-25",
+          "date" : "2025-01-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_11_25-uq.tipa",
+          "size": 5699241
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "TrollFools Huami",
       "bundleIdentifier": "com.huami.TrollFools",
       "developerName" : "huami1314",
@@ -3562,12 +3593,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon_1-2v.png",
       "tintColor": "d1bacb",
       "category": "utilities",
-      "version": "2.10-23",
-      "versionDate" : "2025-01-14",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_10_23_huamidev-In.tipa",
-      "size": 6524034,
+      "version": "2.11-25",
+      "versionDate" : "2025-01-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_11_25_huamidev-1R.tipa",
+      "size": 6534606,
       "title": "TrollFools Huami",
       "versions": [
+        {
+          "version": "2.11-25",
+          "date" : "2025-01-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_11_25_huamidev-1R.tipa",
+          "size": 6534606
+        },
         {
           "version": "2.10-23",
           "date" : "2025-01-14",
@@ -3597,6 +3634,31 @@
           "date" : "2024-12-22",
           "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_7_11_huami-mr.tipa",
           "size": 5173248
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollFools Huami iOS 14",
+      "bundleIdentifier": "com.huami.TrollFools14",
+      "developerName" : "huami1314",
+      "subtitle": "A fork of TrollFools with additional features.",
+      "description": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "localizedDescription": "In-place tweak injection with insert_dylib and ChOma.\nProudly written in SwiftUI.\nExpected to work on all iOS versions supported by opa334’s TrollStore (i.e. iOS 14.0 - 17.0).\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon_1-2v.png",
+      "tintColor": "d1bacb",
+      "category": "utilities",
+      "version": "2.11-25",
+      "versionDate" : "2025-01-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_11_25_huamidev-Be.tipa",
+      "size": 14408490,
+      "title": "TrollFools Huami iOS 14",
+      "versions": [
+        {
+          "version": "2.11-25",
+          "date" : "2025-01-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_11_25_huamidev-Be.tipa",
+          "size": 14408490
         }
       ]
     },
@@ -5651,7 +5713,7 @@
       "subtitle": "Multi-platform emulator of TI Nspire calculators",
       "description": "This project is currently the community TI-Nspire emulator, originally created by Goplat.\nIt supports the emulation of Nspire Touchpad (CAS), CX (CAS) and CX II (-T/CAS) calcs on Android, iOS, Linux, macOS and Windows.\nStatus: ✅",
       "localizedDescription": "This project is currently the community TI-Nspire emulator, originally created by Goplat.\nIt supports the emulation of Nspire Touchpad (CAS), CX (CAS) and CX II (-T/CAS) calcs on Android, iOS, Linux, macOS and Windows.\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//icon_base_512x512-qg.png",
+      "iconURL": "https://cdn1.realmzer.xyz//i_Tunes_Artwork_2x-de.png",
       "tintColor": "e6b02f",
       "category": "games",
       "version": "1.6",
