@@ -456,6 +456,84 @@
       ]
     },
     {
+      "beta": false,
+      "name": "Socket",
+      "bundleIdentifier": "com.staturnz.socket",
+      "developerName": "staturnzz",
+      "subtitle": "iOS 10.x Jailbreak for 32bit Devices",
+      "description": "Socket supports all versions of iOS 10, but please note iOS 10.0.2-10.3.2 have not been tested.\nBy default this jailbreak does NOT install Cydia, instead it uses Zebra (v1.1.28)Also note that this jailbreak does NOT destroy sandbox containers, you may have to resign some apps using the container-resign package, which can be found in the base Socket Repo in Zebra (you need to install this to use it).\nThen you can run the command as show below using a terminal or ssh. This only is for iOS 10.3 - 10.3.4.\nStatus: ✅",
+      "localizedDescription": "Socket supports all versions of iOS 10, but please note iOS 10.0.2-10.3.2 have not been tested.\nBy default this jailbreak does NOT install Cydia, instead it uses Zebra (v1.1.28)Also note that this jailbreak does NOT destroy sandbox containers, you may have to resign some apps using the container-resign package, which can be found in the base Socket Repo in Zebra (you need to install this to use it).\nThen you can run the command as show below using a terminal or ssh. This only is for iOS 10.3 - 10.3.4.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_9-U0.png",
+      "tintColor": "cfaae2",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate": "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//socket-cd.ipa",
+      "size": 38178726,
+      "title": "Socket",
+      "url": "https://socket-jb.app/",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//socket-cd.ipa",
+          "size": 38178726
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "sockH3lix",
+      "bundleIdentifier": "com.sxx.sockH3lix",
+      "developerName": "SongXiaoXi",
+      "subtitle": "Jailbreak for iOS 10.x 64bit devices and iPhone5,2(10.3.4) with the sock port exploit in one second",
+      "description": "Jailbreak for iOS 10.x 64bit devices without KTRR in one second.\nJailbreak for iOS 10.3.4 iPhone5,2 in an instant.\nThis should be the best variant of H3lix jailbreak tool.\nReplace the exploit from v0rtex to sock port with higher success rate and shorter time.Kernel patches and other resources are inherited from doubleH3lix.\nOnly test on my 5s (10.3.3) and 5 (10.3.4). \n10.x 64bit KPP devices is supported in theory. Use at your own risk.This jailbreak tool is compatible with doubleH3lix, which means you can switch between them at any time.\nStatus: ✅",
+      "localizedDescription": "Jailbreak for iOS 10.x 64bit devices without KTRR in one second.\nJailbreak for iOS 10.3.4 iPhone5,2 in an instant.\nThis should be the best variant of H3lix jailbreak tool.\nReplace the exploit from v0rtex to sock port with higher success rate and shorter time.Kernel patches and other resources are inherited from doubleH3lix.\nOnly test on my 5s (10.3.3) and 5 (10.3.4). \n10.x 64bit KPP devices is supported in theory. Use at your own risk.This jailbreak tool is compatible with doubleH3lix, which means you can switch between them at any time.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_1024_3-lh.png",
+      "tintColor": "ff9a02",
+      "category": "utilities",
+      "version": "1.4",
+      "versionDate": "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//sock_H3lix-s2.ipa",
+      "size": 9854198,
+      "title": "sockH3lix",
+      "url": "https://github.com/SongXiaoXi/sockH3lix/",
+      "versions": [
+        {
+          "version": "1.4",
+          "date": "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//sock_H3lix-s2.ipa",
+          "size": 9854198
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "doubleH3lix",
+      "bundleIdentifier": "org.tihmstar.doubleH3lix",
+      "developerName": "tihmstar & siguza",
+      "subtitle": "10.0-10.3.3 Semi-Untethered Jailbreak (A7-A9(X))",
+      "description": "Jailbreak for 64-bit 10.x devices.\nOnly 64-bit devices with headphone jack supported. (A7-A9)\nStatus: ✅",
+      "localizedDescription": "Jailbreak for 64-bit 10.x devices.\nOnly 64-bit devices with headphone jack supported. (A7-A9)\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon83_5x83_5_2x_ipad-zo.png",
+      "tintColor": "00c2ef",
+      "category": "utilities",
+      "version": "RC8",
+      "versionDate": "2025-1-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//double_H3lix_RC_8-fk.ipa",
+      "size": 11420713,
+      "title": "doubleH3lix",
+      "url": "https://doubleh3lix.tihmstar.net/",
+      "versions": [
+        {
+          "version": "RC8",
+          "date": "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//double_H3lix_RC_8-fk.ipa",
+          "size": 11420713
+        }
+      ]
+    },
+    {
       "beta": true,
       "name": "Fugu15",
       "bundleIdentifier": "de.pinauten.Fugu15",
