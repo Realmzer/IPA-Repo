@@ -2522,7 +2522,7 @@
       ]
     },
     {
-      "beta": true,
+      "beta": false,
       "name": "Instagram BH", 
       "bundleIdentifier": "com.burbn.instagram5", 
       "developerName": "Meta", 
