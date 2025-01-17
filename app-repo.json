@@ -2342,13 +2342,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "fe2c55",
       "category": "social",
-      "version": "32.2.0-2.3",
-      "versionDate" : "2024-11-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
-      "size": 226500608,
+      "version": "38.2.0-1.9.3",
+      "versionDate" : "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_BHTTPP_1_9_3_OT_Moe-eY.ipaf",
+      "size": 361769877,
       "title": "TikTok BH++",
       "url": "https://github.com/raulsaeed/TikTokPlusPlus",
       "versions" : [
+        {
+          "version": "38.2.0-1.9.3",
+          "date" : "2025-1-17",
+          "localizedDescription": "From: SultanModsX and compiled by moeotf", 
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_BHTTPP_1_9_3_OT_Moe-eY.ipa",
+          "size": 361769877
+        },
         {
           "version": "32.2.0-2.3",
           "date" : "2024-11-23",
@@ -2411,6 +2418,56 @@
           "date": "2024-11-23",
           "downloadURL": "https://cdn1.realmzer.xyz//com_burbn_instagram_356_0_0_regram_1_0_b15_sl-i9.ipa",
           "size": 193929216
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Instagram Rocket", 
+      "bundleIdentifier": "com.burbn.instagram1", 
+      "developerName": "Meta", 
+      "subtitle": "Instagram with Tweaks",
+      "description": "This is a tweaked version of Instagram with multiple tweaks.\nAlready cracked just click restore purchases.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
+      "localizedDescription": "This is a tweaked version of Instagram with multiple tweaks.\nAlready cracked just click restore purchases.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "360.1.0-3.8.30",
+      "date": "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram360_1_0_Rocket3_8_30_Moe_Open_Safari_Extension-zN.ipa",
+      "size": 141985437,
+      "title": "Instagram Rocket",
+      "versions": [
+        {
+          "version": "360.1.0-3.8.30",
+          "date": "2025-1-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram360_1_0_Rocket3_8_30_Moe_Open_Safari_Extension-zN.ipa",
+          "size": 141985437
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Instagram Theta", 
+      "bundleIdentifier": "com.burbn.instagram2", 
+      "developerName": "Meta & objec c", 
+      "subtitle": "Up to date Instagram Tweak",
+      "description": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
+      "localizedDescription": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "363.0-1.2",
+      "date": "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_Theta1_2_Moe-6k.ipa",
+      "size": 145428996,
+      "title": "Instagram Theta",
+      "versions": [
+        {
+          "version": "363.0-1.2",
+          "date": "2025-1-17",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_Theta1_2_Moe-6k.ipa",
+          "size": 145428996
         }
       ]
     },
