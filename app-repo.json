@@ -5285,7 +5285,6 @@
         }
       ]
     },
-    
     {
       "beta": false,
       "name": "Provenance",
@@ -5502,6 +5501,188 @@
         }
       ]
     },
+    {
+      "beta": false,
+      "name" : "iNDS",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName" : "iNDS-Team",
+      "subtitle": "Revival of the Nintendo DS emulator for iOS",
+      "description": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team\nStatus: ✅",
+      "localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//a_5-NX.png",
+      "tintColor": "ff5454",
+      "category": "games",
+      "version": "1.10.8",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//i_NDS-Kl.ipa",
+      "size": 8553596,
+      "title": "iNDS",
+      "url": "https://github.com/iNDS-Team/iNDS/",
+      "versions" : [
+        {
+          "version": "1.10.8",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//i_NDS-Kl.ipa",
+          "size": 8553596
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Play!",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName" : "jpd002",
+      "subtitle": "Play! - PlayStation2 Emulator",
+      "description": "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.\nStatus: ✅",
+      "localizedDescription": "Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_base_512x512-qg.png",
+      "tintColor": "6b6cf2",
+      "category": "games",
+      "version": "0.68",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//Play-k3.ipa",
+      "size": 3764219,
+      "title": "Play!",
+      "url": "https://github.com/jpd002/Play-",
+      "versions" : [
+        {
+          "version": "0.68",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//Play-k3.ipa",
+          "size": 3764219
+        }
+      ]
+    },    
+    {
+      "beta": false,
+      "name" : "Firebird Emu",
+      "bundleIdentifier": "com.adriweb.firebird-emu",
+      "developerName" : "nspire-emus",
+      "subtitle": "Multi-platform emulator of TI Nspire calculators",
+      "description": "This project is currently the community TI-Nspire emulator, originally created by Goplat.\nIt supports the emulation of Nspire Touchpad (CAS), CX (CAS) and CX II (-T/CAS) calcs on Android, iOS, Linux, macOS and Windows.\nStatus: ✅",
+      "localizedDescription": "This project is currently the community TI-Nspire emulator, originally created by Goplat.\nIt supports the emulation of Nspire Touchpad (CAS), CX (CAS) and CX II (-T/CAS) calcs on Android, iOS, Linux, macOS and Windows.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_base_512x512-qg.png",
+      "tintColor": "e6b02f",
+      "category": "games",
+      "version": "1.6",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//firebird_i_OS-XT.ipa",
+      "size": 9953289,
+      "title": "Firebird Emu",
+      "url": "https://github.com/nspire-emus/firebird",
+      "versions" : [
+        {
+          "version": "1.6",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//firebird_i_OS-XT.ipa",
+          "size": 9953289
+        }
+      ]
+    },    
+    {
+      "beta": false,
+      "name" : "MAME4iOS",
+      "bundleIdentifier": "com.example.mame4ios",
+      "developerName" : "yoshisuga",
+      "subtitle": "Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)",
+      "description": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "localizedDescription": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//g_Z_Cjh_Ll-XK.png",
+      "tintColor": "979797",
+      "category": "games",
+      "version": "2022.5",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//MAME_4i_OS_2022_5_250-gw.ipa",
+      "size": 107682071,
+      "title": "MAME4iOS",
+      "url": "https://github.com/yoshisuga/MAME4iOS",
+      "versions" : [
+        {
+          "version": "2022.5",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//MAME_4i_OS_2022_5_250-gw.ipa",
+          "size": 107682071
+        }
+      ]
+    },    
+    {
+      "beta": false,
+      "name" : "MAME4iOS MAME 139",
+      "bundleIdentifier": "com.example.mame4ios139",
+      "developerName" : "yoshisuga",
+      "subtitle": "Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)",
+      "description": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "localizedDescription": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//g_Z_Cjh_Ll-XK.png",
+      "tintColor": "979797",
+      "category": "games",
+      "version": "2022.5",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//MAME_4i_OS_2022_5_139-pi.ipa",
+      "size": 52332306,
+      "title": "MAME4iOS MAME 139",
+      "url": "https://github.com/yoshisuga/MAME4iOS",
+      "versions" : [
+        {
+          "version": "2022.5",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//MAME_4i_OS_2022_5_139-pi.ipa",
+          "size": 52332306
+        }
+      ]
+    },    
+    {
+      "beta": false,
+      "name" : "MAME4iOS tvOS MAME 139",
+      "bundleIdentifier": "com.example.mame4iostv139",
+      "developerName" : "yoshisuga",
+      "subtitle": "Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)",
+      "description": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "localizedDescription": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//g_Z_Cjh_Ll-XK.png",
+      "tintColor": "979797",
+      "category": "games",
+      "version": "2022.5",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//MAME_4tv_OS_2022_5_139-YA.ipa",
+      "size": 46380193,
+      "title": "MAME4iOS tvOS MAME 139",
+      "url": "https://github.com/yoshisuga/MAME4iOS",
+      "versions" : [
+        {
+          "version": "2022.5",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//MAME_4tv_OS_2022_5_139-YA.ipa",
+          "size": 46380193
+        }
+      ]
+    },   
+    {
+      "beta": false,
+      "name" : "MAME4iOS tvOS",
+      "bundleIdentifier": "com.example.mame4iostv",
+      "developerName" : "yoshisuga",
+      "subtitle": "Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)",
+      "description": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "localizedDescription": "This is a port of MAME for iOS, iPadOS, tvOS and macOS. MAME4iOS is designed to run for modern iOS and macOS platforms, including support for the latest Apple technology platform enhancments such as Metal graphics and the M1 processor.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//g_Z_Cjh_Ll-XK.png",
+      "tintColor": "979797",
+      "category": "games",
+      "version": "2022.5",
+      "versionDate" : "2025-01-16",
+      "downloadURL": "https://cdn1.realmzer.xyz//MAME_4tv_OS_2022_5_250-Bi.ipa",
+      "size": 99480985,
+      "title": "MAME4iOS tvOS",
+      "url": "https://github.com/yoshisuga/MAME4iOS",
+      "versions" : [
+        {
+          "version": "2022.5",
+          "date" : "2025-01-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//MAME_4tv_OS_2022_5_250-Bi.ipa",
+          "size": 99480985
+        }
+      ]
+    },   
     {
       "beta": false,
       "name": "Deltarune Chapter 1",
