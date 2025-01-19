@@ -6604,13 +6604,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version": "2025.101.0 ",
-    "versionDate": "2025-1-1",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS-cZ.ipa",
-    "size": 195433941,
+    "version": "2025.118.0",
+    "versionDate": "2025-1-19",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-mn.ipa",
+    "size": 196935705,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions": [
+      {
+        "version": "2025.118.0",
+        "date": "2025-1-19",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-mn.ipa",
+        "size": 196935705
+      },
       {
         "version": "2025.101.0",
         "date": "2025-1-1",
