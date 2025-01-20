@@ -2665,6 +2665,132 @@
     },
     {
       "beta": false,
+      "name": "TikTokAC",
+      "bundleIdentifier": "com.zhiliaoapp.musically1",
+      "developerName": "ByteDance & moeotf",
+      "subtitle": "TikTokAC - Stable TikTok Tweak",
+      "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: @SultanModsIPAs",
+      "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: @SultanModsIPAs",
+      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
+      "tintColor": "08f3da",
+      "category": "social",
+      "version": "38.20-2.0-patched",
+      "versionDate": "2025-1-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_AC_2_0_W_Ith_U_Sto_Canada_Fix-Ke.ipa",
+      "size": 362943057,
+      "title": "TikTokAC",
+      "versions": [
+        {
+          "version": "38.20-2.0-patched",
+          "date": "2025-1-20",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_AC_2_0_W_Ith_U_Sto_Canada_Fix-Ke.ipa",
+          "size": 362943057
+        },
+        {
+          "version": "38.20",
+          "date": "2025-1-16",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_AC_2_0_Moe-kR.ipa",
+          "size": 361847468
+        },
+        {
+          "version": "37.8.0",
+          "date": "2024-12-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tokv37_8_0_AC_2_0moefixed-WI.ipa",
+          "size": 354717696
+        },
+        {
+          "version": "37.7.0",
+          "date": "2024-12-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_7_0_Moe_patched-LA.ipa",
+          "size": 315000000
+        },
+        {
+          "version": "37.6.0",
+          "date": "2024-12-04",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
+          "size": 311889920
+        },
+        {
+          "version": "37.5.0-Patched",
+          "date": "2024-11-30",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
+          "size": 326320128
+        },
+        {
+          "version": "37.5.0",
+          "date": "2024-11-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok_AC_37_5_0_Moe_patched-NQ.ipa",
+          "size": 326307840
+        },
+        {
+          "version": "37.4.0",
+          "date": "2024-11-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_AC_37_4_0_Moe-OR.ipa",
+          "size": 316399616
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "TikTok BH++", 
+      "bundleIdentifier": "com.zhiliaoapp.musically", 
+      "developerName": "raulsaeed & ByteDance", 
+      "subtitle": "Updated BH++, working on new versions of TikTok",
+      "description": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
+      "localizedDescription": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟", 
+      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
+      "tintColor": "08f3da",
+      "category": "social",
+      "version": "38.2.0-1.9.3",
+      "versionDate" : "2025-1-17",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_BHTTPP_1_9_3_OT_Moe-eY.ipa",
+      "size": 361769877,
+      "title": "TikTok BH++",
+      "url": "https://github.com/raulsaeed/TikTokPlusPlus",
+      "versions" : [
+        {
+          "version": "38.2.0-1.9.3",
+          "date" : "2025-1-17",
+          "localizedDescription": "From: SultanModsX and compiled by moeotf", 
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_BHTTPP_1_9_3_OT_Moe-eY.ipa",
+          "size": 361769877
+        },
+        {
+          "version": "32.2.0-2.3",
+          "date" : "2024-11-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok_v32_2_0_BH_v2_3-Jc.ipa",
+          "size": 226500608
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically", 
+      "developerName": "ByteDance", 
+      "subtitle": "The Stock TikTok Experience",
+      "description": "This is regular TikTok\nStatus: ✅\nPatched by Sultan Mods",
+      "localizedDescription": "This is regular TikTok\nStatus: ✅\nPatched by Sultan Mods",
+      "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280_1-jZ.webp",
+      "tintColor": "08f3da",
+      "category": "social",
+      "version": "38.2.0-patched",
+      "versionDate" : "2025-1-20",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_Stock_W_Ith_U_Sto_Canada_Fix-86.ipa",
+      "size": 362717362,
+      "title": "TikTok",
+      "versions" : [
+        {
+          "version": "38.2.0-patched",
+          "date" : "2025-1-20",
+          "localizedDescription": "This version is patched for US Restrictions\nFrom: Sultan Mods", 
+          "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_Stock_W_Ith_U_Sto_Canada_Fix-86.ipa",
+          "size": 362717362
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "Duolingo+",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
