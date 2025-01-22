@@ -1809,12 +1809,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "263.0_70220",
-      "versionDate": "2025-1-16",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_7-ME.ipa",
-      "size": 88999865,
+      "version": "263.0",
+      "versionDate": "2025-1-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_8-85.ipa",
+      "size": 88997044,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "263.0",
+          "date" : "2025-1-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_8-85.ipa",
+          "size": 88997044
+        },
         {
           "version": "263.0_70220",
           "date" : "2025-1-16",
@@ -2019,12 +2025,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
       "tintColor": "9145fd",
       "category": "entertainment",
-      "version": "22.7",
-      "versionDate" : "2025-01-15",
-      "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_7adfree_patched_nofix-nM.ipa",
-      "size": 102682183,
+      "version": "22.8",
+      "versionDate" : "2025-01-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_8_Ad_Free_Moe_Pro_patched_nofix-n9.ipa",
+      "size": 103036083,
       "title": "Twitch No Ads",
       "versions": [
+        {
+          "version": "22.8",
+          "date" : "2025-01-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_8_Ad_Free_Moe_Pro_patched_nofix-n9.ipa",
+          "size": 103036083
+        },
         {
           "version": "22.7",
           "date" : "2025-01-15",
@@ -2525,12 +2537,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
       "tintColor": "ff2120",
       "category": "entertainment",
-      "version": "8.02",
-      "versionDate": "2025-01-15",
-      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_02_Jacks_Apps-DZ.ipa",
-      "size": 81318925,
+      "version": "8.03",
+      "versionDate": "2025-01-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_03_Jacks_Apps-E4.ipa",
+      "size": 81318967,
       "title": "YTMusicUltimate+",
       "versions": [
+        {
+          "version": "8.03",
+          "date": "2025-01-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_03_Jacks_Apps-E4.ipa",
+          "size": 81318967
+        },
         {
           "version": "8.02",
           "date": "2025-01-15",
@@ -6242,12 +6260,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//roblox_icon-vv.png",
       "tintColor": "2f3238",
       "category": "games",
-      "version": "2.654.464",
-      "size": 188223482,
-      "versionDate": "2025-1-07",
-      "downloadURL": "https://cdn1.realmzer.xyz//Delta_2_654_464-OO.ipa",
+      "version": "2.655.1095-1",
+      "size": 147695880,
+      "versionDate": "2025-1-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Delta_655_1095_01-sQ.ipa",
       "title": "Delta Executor (Roblox)",
       "versions" : [
+        {
+          "version": "2.655.1095-1",
+          "date" : "2025-1-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Delta_655_1095_01-sQ.ipa",
+          "size": 147695880
+        },
         {
           "version": "2.654.464",
           "date" : "2025-1-07",
@@ -6298,12 +6322,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//download_3-Dl.jpg",
       "tintColor": "dc0100",
       "category": "games",
-      "version": "2.654.44",
-      "size": 131669053,
-      "versionDate": "2025-1-09",
-      "downloadURL": "https://cdn1.realmzer.xyz//Codex2_654_44-gJ.ipa",
+      "version": "2.655.1095",
+      "size": 132645293,
+      "versionDate": "2025-1-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//Codex2_655_1095-ac.ipa",
       "title": "Codex (Roblox)",
       "versions" : [
+        {
+          "version": "2.655.1095",
+          "date" : "2025-1-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//Codex2_655_1095-ac.ipa",
+          "size": 132645293
+        },
         {
           "version": "2.654.44",
           "date" : "2025-1-09",
