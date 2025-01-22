@@ -2394,12 +2394,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "364.0-1.1",
-      "date": "2025-1-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_AC_1_1_Moe-0m.ipa",
-      "size": 145240957,
+      "version": "364.0-1.2",
+      "date": "2025-1-21",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_AC_1_2_Moe-aV.ipa",
+      "size": 145803241,
       "title": "Instagram AC",
       "versions": [
+        {
+          "version": "364.0-1.2",
+          "date": "2025-1-21",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_AC_1_2_Moe-aV.ipa",
+          "size": 145803241
+        },
         {
           "version": "364.0-1.1",
           "date": "2025-1-18",
@@ -6995,12 +7001,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "26.6.2",
-    "versionDate" : "2025-1-15",
-    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_6_2_Moe_Pro-lo.ipa",
-    "size": 98905171,
+    "version": "26.6.3",
+    "versionDate" : "2025-1-21",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_6_3_Moe_Pro-2j.ipa",
+    "size": 100120395,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "26.6.3",
+        "date" : "2025-1-21",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_6_3_Moe_Pro-2j.ipa",
+        "size": 100120395
+      },
       {
         "version": "26.6.2",
         "date" : "2025-1-15",
