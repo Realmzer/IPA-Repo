@@ -2757,7 +2757,7 @@
     {
       "beta": false,
       "name": "TikTok BH++", 
-      "bundleIdentifier": "com.zhiliaoapp.musically", 
+      "bundleIdentifier": "com.zhiliaoapp.musically2", 
       "developerName": "raulsaeed & ByteDance", 
       "subtitle": "Updated BH++, working on new versions of TikTok",
       "description": "Injected with BH++, an updated fork of BH, working on new versions of TikTok\n\nStatus: ✅🌟",
