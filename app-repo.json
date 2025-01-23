@@ -1809,12 +1809,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "263.0",
-      "versionDate": "2025-1-22",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_8-85.ipa",
-      "size": 88997044,
+      "version": "264.0_70569",
+      "versionDate": "2025-1-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_9-Y9.ipa",
+      "size": 88538211,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "264.0_70569",
+          "date" : "2025-1-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_9-Y9.ipa",
+          "size": 88538211 
+        },
         {
           "version": "263.0",
           "date" : "2025-1-22",
@@ -5536,7 +5542,7 @@
       ]
     },
     {
-      "beta": false,
+      "beta": true,
       "name" : "varClean Rootless",
       "bundleIdentifier": "com.m1337.varclean",
       "developerName" : "m1337v",
@@ -5546,12 +5552,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//icon_1024_2-S0.png",
       "tintColor": "131920",
       "category": "utilities",
-      "version": "cc61712",
-      "versionDate" : "2025-1-08",
-      "downloadURL": "https://cdn1.realmzer.xyz//var_Clean15-hQ.tipa",
-      "size": 739523,
+      "version": "5afcd42",
+      "versionDate" : "2025-1-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//var_Clean15_2-s4.tipa",
+      "size": 751539,
       "title": "varClean Rootless",
       "versions": [
+        {
+          "version": "5afcd42",
+          "date" : "2025-1-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//var_Clean15_2-s4.tipa",
+          "size": 751539  
+        },
         {
           "version": "cc61712",
           "date" : "2025-1-08",
@@ -7174,13 +7186,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.20",
-    "versionDate" : "2025-1-14",
+    "version": "33.20.1",
+    "versionDate" : "2025-1-23",
     "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_20-JI.ipa",
-    "size": 216670302,
+    "size": 211230779,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.20.1",
+        "date" : "2025-1-23",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_20_1-lC.ipa",
+        "size": 211230779
+      },
       {
         "version": "33.20",
         "date" : "2025-1-14",
