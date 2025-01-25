@@ -768,13 +768,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4464-W4.jpeg",
       "tintColor": "848ef9",
       "category": "utilities",
-      "version" : "1.1.3",
-      "versionDate" : "2024-11-02",
-      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_1_3-6B.ipa",
-      "size": 12496896,
+      "version" : "1.2.0",
+      "versionDate" : "2025-1-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_2_0-jp.ipa",
+      "size": 12590547,
       "title": "Feather",
       "url": "https://github.com/khcrysalis/Feather/",
       "versions" : [
+        {
+          "version" : "1.2.0",
+          "date" : "2025-1-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_2_0-jp.ipa",
+          "size": 12590547
+        },
         {
           "version" : "1.1.3",
           "date" : "2024-11-02",
@@ -1809,12 +1815,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "264.0_70569",
-      "versionDate": "2025-1-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_9-Y9.ipa",
-      "size": 88538211,
+      "version": "264.0_70713",
+      "versionDate": "2025-1-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_11-pH.ipa",
+      "size": 88535033,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "264.0_70713",
+          "date" : "2025-1-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_11-pH.ipa",
+          "size": 88535033 
+        },
         {
           "version": "264.0_70569",
           "date" : "2025-1-23",
@@ -1925,13 +1937,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//swiftgram-lS.png",
       "tintColor": "f56d3e",
       "category": "social",
-      "version": "11.5.2",
-      "versionDate" : "2024-12-24",
-      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_5_2_eeveedecrypter-Mf.ipa",
-      "size": 77078528,
+      "version": "11.6.2",
+      "versionDate" : "2025-1-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_6_2_eeveedecrypter-oe.ipa",
+      "size": 79041531,
       "title": "Swiftgram",
       "url": "https://swiftgram.app/",
       "versions" : [
+        {
+          "version": "11.6.2",
+          "date" : "2025-1-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_6_2_eeveedecrypter-oe.ipa",
+          "size": 79041531
+        },
         {
           "version": "11.5.2",
           "date" : "2024-12-24",
@@ -5697,13 +5715,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Iv0_D_Ty_QA_400x400-De.png",
       "tintColor": "1ac8fb",
       "category": "games",
-      "version": "3.0.2",
-      "versionDate" : "2025-1-16",
-      "downloadURL": "https://cdn1.realmzer.xyz//Provenance_1-7x.ipa",
-      "size": 599594548,
+      "version": "3.0.3",
+      "versionDate" : "2025-1-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Provenance-li.ipa",
+      "size": 599629339,
       "title": "Provenance",
       "url": "https://github.com/Provenance-Emu/Provenance/",
       "versions" : [
+        {
+          "version": "3.0.3",
+          "date" : "2025-1-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Provenance-li.ipa",
+          "size": 599629339
+        },
         {
           "version": "3.0.2",
           "date" : "2025-1-16",
@@ -6778,13 +6802,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version": "2025.118.0",
-    "versionDate": "2025-1-19",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-mn.ipa",
-    "size": 196935705,
+    "version": "2025.118.3",
+    "versionDate": "2025-1-25",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-P4.ipa",
+    "size": 196974093,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions": [
+      {
+        "version": "2025.118.3",
+        "date": "2025-1-25",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-P4.ipa",
+        "size": 196974093
+      },
       {
         "version": "2025.118.0",
         "date": "2025-1-19",
