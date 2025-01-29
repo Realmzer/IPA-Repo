@@ -1497,7 +1497,7 @@
       "title": "LightningTime"
     },
     {
-      "beta": false,
+      "beta": true,
       "name" : "Frida Code Manager (Root-Hide)",
       "bundleIdentifier": "com.sparklechan.swiftyrh",
       "developerName": "fridakitten",
@@ -1507,13 +1507,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "1.6",
-      "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_roothide1_6.deb",
-      "size": 3166208,
+      "version": "2.0a1",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_v2_0a1-32.deb",
+      "size": 4769472,
       "title": "Frida Code Manager (Root-Hide)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a1",
+          "date" : "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_v2_0a1-32.deb",
+          "size": 4769472
+        },
         {
           "version": "1.6",
           "date" : "2024-10-25",
@@ -1522,6 +1528,24 @@
           "size": 3166208
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Hide) v2.0 alpha 1",
+      "bundleIdentifier": "com.sparklechan.swiftyrh20a1",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a1",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_v2_0a1-32.deb",
+      "size": 4769472,
+      "title": "Frida Code Manager (Root-Hide) v2.0 alpha 1",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": false,
@@ -1542,7 +1566,7 @@
       "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
-      "beta": false,
+      "beta": true,
       "name" : "Frida Code Manager (Root-Less)",
       "bundleIdentifier": "com.sparklechan.swiftyrl",
       "developerName": "fridakitten",
@@ -1552,13 +1576,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "1.6",
-      "versionDate": "2024-10-25",
-      "downloadURL": "https://cdn1.realmzer.xyz/Frida_Code_Manager_rootless1_6.deb",
-      "size": 3166104,
+      "version": "2.0a1",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_v2_0a1-Gp.deb",
+      "size": 4770140,
       "title": "Frida Code Manager (Root-Less)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a1",
+          "date" : "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_v2_0a1-Gp.deb",
+          "size": 4770140
+        },
         {
           "version": "1.6",
           "date" : "2024-10-25",
@@ -1567,6 +1597,24 @@
           "size": 3166104
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Less) v2.0 alpha 1",
+      "bundleIdentifier": "com.sparklechan.swiftyrl20a1",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a1",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_v2_0a1-Gp.deb",
+      "size": 4770140,
+      "title": "Frida Code Manager (Root-Less) v2.0 alpha 1",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": false,
@@ -1815,12 +1863,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "264.0_70713",
-      "versionDate": "2025-1-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_11-pH.ipa",
-      "size": 88535033,
+      "version": "265.0_70870",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_12-aP.ipa",
+      "size": 88646062,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "265.0_70870",
+          "date" : "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_12-aP.ipa",
+          "size": 88646062 
+        },        
         {
           "version": "264.0_70713",
           "date" : "2025-1-25",
@@ -2049,12 +2103,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
       "tintColor": "9145fd",
       "category": "entertainment",
-      "version": "22.8",
-      "versionDate" : "2025-01-22",
-      "downloadURL": "https://cdn1.realmzer.xyz//Twitch22_8_Ad_Free_Moe_Pro_patched_nofix-n9.ipa",
-      "size": 103036083,
+      "version": "22.9",
+      "versionDate" : "2025-01-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//twitch22_9_Adfreemoe_patched_nofix-Et.ipa",
+      "size": 103050102,
       "title": "Twitch No Ads",
       "versions": [
+        {
+          "version": "22.9",
+          "date" : "2025-01-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//twitch22_9_Adfreemoe_patched_nofix-Et.ipa",
+          "size": 103050102
+        },
         {
           "version": "22.8",
           "date" : "2025-01-22",
@@ -2092,13 +2152,26 @@
       "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "9.0.0",
-      "versionDate": "2024-12-12",
-      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_0-Gk.ipa",
-      "size": 84108319,
+      "version": "9.0.14/Swift 5.8.6",
+      "versionDate": "2024-12-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_14_patched-bQ.ipa",
+      "size": 82538778,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions": [
+        {
+          "version": "9.0.14/Swift 5.8.6",
+          "date": "2025-1-29",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_14_patched-bQ.ipa",
+          "size": 82538778 
+        },
+        {
+          "version": "9.0.8/Swift 5.8.4",
+          "date": "2025-1-13",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_4_9_0_8-UG.ipa",
+          "size": 84108319 
+        },
         {
           "version": "9.0.8/Swift 5.8.4",
           "date": "2025-1-13",
@@ -2399,12 +2472,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "364.0-1.2",
-      "date": "2025-1-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_Theta1_2_Moe-8K.ipa",
-      "size": 146097183,
+      "version": "365.0-1.2",
+      "date": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_Theta1_2_Moe-Ym.ipa",
+      "size": 146711886,
       "title": "Instagram Theta",
       "versions": [
+        {
+          "version": "365.0-1.2",
+          "date": "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_Theta1_2_Moe-Ym.ipa",
+          "size": 146711886
+        },
         {
           "version": "364.0-1.2",
           "date": "2025-1-18",
@@ -2430,12 +2509,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "364.0-1.2",
-      "date": "2025-1-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_AC_1_2_Moe-aV.ipa",
-      "size": 145803241,
+      "version": "365.0-1.2",
+      "date": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_AC_1_2_Moe-1D.ipa",
+      "size": 146418408,
       "title": "Instagram AC",
       "versions": [
+        {
+          "version": "365.0-1.2",
+          "date": "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_AC_1_2_Moe-1D.ipa",
+          "size": 146418408
+        },
         {
           "version": "364.0-1.2",
           "date": "2025-1-21",
@@ -2467,12 +2552,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "364.0-1.4.8",
-      "date": "2025-1-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_NYX_1_4_8_Moe-cf.ipa",
-      "size": 148531326,
+      "version": "365.0-1.4.8",
+      "date": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_NYX_1_4_8_Beta_Moe-td.ipa",
+      "size": 149144633,
       "title": "Instagram NYX",
       "versions": [
+        {
+          "version": "365.0-1.4.8",
+          "date": "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_NYX_1_4_8_Beta_Moe-td.ipa",
+          "size": 149144633 
+        },
         {
           "version": "364.0-1.4.8",
           "date": "2025-1-18",
@@ -2498,12 +2589,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "364.0-1.1",
-      "date": "2025-1-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram364_0_0_BH_1_1_Moe-NO.ipa",
-      "size": 145403213,
+      "version": "365.0-1.1",
+      "date": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_BH_1_1_Moe-ih.ipa",
+      "size": 146017167,
       "title": "Instagram BH",
       "versions": [
+        {
+          "version": "365.0-1.1",
+          "date": "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//instagram365_0_0_BH_1_1_Moe-ih.ipa",
+          "size": 146017167
+        },
         {
           "version": "364.0-1.1",
           "date": "2025-1-18",
@@ -2722,12 +2819,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "38.20-2.0-patched",
-      "versionDate": "2025-1-20",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_AC_2_0_W_Ith_U_Sto_Canada_Fix-Ke.ipa",
-      "size": 362943057,
+      "version": "38.30-2.0",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_3_0_AC_2_0_Moe-qR.ipa",
+      "size": 364079511,
       "title": "TikTokAC",
       "versions": [
+        {
+          "version": "38.30-2.0",
+          "date": "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_3_0_AC_2_0_Moe-qR.ipa",
+          "size": 364079511
+        },
         {
           "version": "38.20-2.0-patched",
           "date": "2025-1-20",
@@ -4421,12 +4524,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//6669b3b45e7d7e36f189dc6d-Zr.png",
       "tintColor": "223155",
       "category": "utilities",
-      "version": "2.15",
-      "versionDate" : "2025-1-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_2_14_542-oM.tipa",
-      "size": 5653440,
+      "version": "3.0-574",
+      "versionDate" : "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_3_0_574-wK.tipa",
+      "size": 6031032,
       "title": "TrollRecorder",
       "versions": [
+        {
+          "version": "3.0-574",
+          "date" : "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//TR_App_3_0_574-wK.tipa",
+          "size": 6031032
+        },
         {
           "version": "2.15",
           "date" : "2025-1-15",
@@ -6296,12 +6405,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//roblox_icon-vv.png",
       "tintColor": "2f3238",
       "category": "games",
-      "version": "2.655.1095-1",
-      "size": 147695880,
-      "versionDate": "2025-1-22",
-      "downloadURL": "https://cdn1.realmzer.xyz//Delta_655_1095_01-sQ.ipa",
+      "version": "657.604-01",
+      "size": 150640571,
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Delta_657_604_01-J8.ipa",
       "title": "Delta Executor (Roblox)",
       "versions" : [
+        {
+          "version": "657.604-01",
+          "date" : "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Delta_657_604_01-J8.ipa",
+          "size": 150640571
+        },
         {
           "version": "2.655.1095-1",
           "date" : "2025-1-22",
@@ -6327,12 +6442,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//images_6-As.png",
       "tintColor": "d40885",
       "category": "games",
-      "version": "2.0.3",
-      "size": 126439927,
-      "versionDate": "2025-1-09",
-      "downloadURL": "https://cdn1.realmzer.xyz//Apple_Ware_2_0_3-vO.ipa",
+      "version": "2.0.5",
+      "size": 127338579,
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Apple_Ware_2_0_5-el.ipa",
       "title": "Appleware (Roblox)",
       "versions" : [
+        {
+          "version": "2.0.5",
+          "date" : "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Apple_Ware_2_0_5-el.ipa",
+          "size": 127338579
+        },
         {
           "version": "2.0.3",
           "date" : "2025-1-09",
@@ -6395,13 +6516,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
       "tintColor": "6633cc",
       "category": "games",
-      "version": "1.0",
-      "versionDate": "2024-10-26",
-      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
-      "size": 328896512,
+      "version": "1.0.1",
+      "versionDate": "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-U1.ipa",
+      "size": 328873145,
       "title": "Friday Night Funkin: Psych Engine",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
       "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2025-1-29",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
+          "size": 328873145
+        },
         {
           "version": "1.0",
           "date": "2024-10-26",
@@ -6427,6 +6554,24 @@
           "size": 219418624
         }
       ]
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: Psych Engine 1.0.1",
+      "bundleIdentifier": "com.shadowmario.psychengine101",
+      "developerName": "ShadowMario & MobilePorting",
+      "subtitle": "Psych Engine: Open Source FNF Engine",
+      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "tintColor": "6633cc",
+      "category": "games",
+      "version": "1.0.1",
+      "versionDate" : "2025-1-29",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine_v1_0-G0.ipa",
+      "size": 328873145,
+      "title": "Friday Night Funkin: Psych Engine 1.0.1",
+      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile"
     },
     {
       "beta": false,
@@ -7047,13 +7192,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//flero_C1k2_Qq_1-Ed.png",
     "tintColor": "67f7f6",
     "category": "games",
-    "version": "0.0.6",
-    "versionDate" : "2024-11-24",
-    "downloadURL": "https://cdn1.realmzer.xyz//flero_v0_0_6-nr.ipa",
-    "size": 158756864,
+    "version": "0.0.7",
+    "versionDate" : "2025-1-29",
+    "downloadURL": "https://cdn1.realmzer.xyz//flero_0_0_7-sK.ipa",
+    "size": 183494172,
     "title": "Flero",
     "url": "https://flero.pages.dev/",
     "versions" : [
+      {
+        "version": "0.0.7",
+        "date" : "2025-1-29",
+        "downloadURL": "https://cdn1.realmzer.xyz//flero_0_0_7-sK.ipa",
+        "size": 183494172
+      },
       {
         "version": "0.0.6",
         "date" : "2024-11-24",
@@ -7191,12 +7342,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Icon60x60_3x-1u.png",
     "tintColor": "000000",
     "category": "utilities",
-    "version": "1.3.2",
-    "versionDate" : "2024-12-23",
-    "downloadURL": "https://cdn1.realmzer.xyz//i_SH-Nw.ipa",
-    "size": 4235264,
+    "version": "1.3.2-763",
+    "versionDate" : "2025-1-29",
+    "downloadURL": "https://cdn1.realmzer.xyz//i_SH_1-eB.ipa",
+    "size": 4565228,
     "title": "iSH",
     "versions": [
+      {
+        "version": "1.3.2-763",
+        "date" : "2025-1-29",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_SH_1-eB.ipa",
+        "size": 4565228
+      },
       {
         "version": "1.3.2",
         "date" : "2024-12-23",
@@ -7625,12 +7782,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//icon_8-Ls.png" ,
     "tintColor": "ff7d0a",
     "category": "entertainment",
-    "version": "2.0-8.0.8",
-    "size": 72078326,
-    "versionDate": "2025-1-15",
-    "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_8_0_8-Rl.ipa", 
+    "version": "2.0.1-8.0.9",
+    "size": 67393500,
+    "versionDate": "2025-1-29",
+    "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_1_8_0_9-ld.ipa", 
     "title": "Infuse Plus",
     "versions" : [
+      {
+        "version": "2.0.1-8.0.9",
+        "date" : "2025-1-29",
+        "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_1_8_0_9-ld.ipa", 
+        "size": 67393500
+      },
       {
         "version": "2.0-8.0.8",
         "date" : "2025-1-15",
@@ -7650,12 +7813,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//icon_8-Ls.png" ,
     "tintColor": "ff7d0a",
     "category": "entertainment",
-    "version": "2.0-7.8.4",
-    "size": 72047694,
-    "versionDate": "2025-1-15",
-    "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_7_8_4-Sm.ipa", 
+    "version": "2.0.1-7.8.4",
+    "size": 67927927,
+    "versionDate": "2025-1-29",
+    "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_1_7_8_4-q3.ipa", 
     "title": "Infuse Plus iOS 14",
     "versions" : [
+      {
+        "version": "2.0.1-7.8.4",
+        "date" : "2025-1-29",
+        "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_1_7_8_4-q3.ipa", 
+        "size": 67927927
+      },
       {
         "version": "2.0-7.8.4",
         "date" : "2025-1-15",
@@ -7741,56 +7910,6 @@
       }
     ]
   },    
-  {
-    "beta": false,
-    "name" : "Climax",
-    "bundleIdentifier": "com.objcmsgsend.Climax",
-    "developerName" : "This is a porn app dont actually download it",
-    "subtitle": "Climax - Fake Robux Balance",
-    "description": "The best fake robux balance for iOS\nStatus: ✅",
-    "localizedDescription": "The best fake robux balance for iOS\nStatus: ✅",
-    "iconURL": "https://cdn1.realmzer.xyz//Climax-h5.png",
-    "tintColor": "88c1e8",
-    "category": "utilities",
-    "version": "2.1",
-    "versionDate" : "2024-11-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//Climax-Sy.ipa",
-    "size": 962560,
-    "title": "Climax",
-    "versions" : [
-      {
-        "version": "2.1",
-        "date" : "2024-11-21",
-        "downloadURL": "https://cdn1.realmzer.xyz//Climax-Sy.ipa",
-        "size": 962560
-      }
-    ]
-  },
-  {
-    "beta": false,
-    "name" : "Hot Tub",
-    "bundleIdentifier": "com.c1d3r.Hot-Tub",
-    "developerName" : "c1d3rdev",
-    "subtitle": "Introducing Hot Tub: The best way to watch porn on iOS",
-    "description": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
-    "localizedDescription": "Hot Tub is redefining how you watch porn. With a clean design, fast performance, and no interruptions, Hot Tub delivers a seamless, private, and ad-free experience—100% free, no account needed.",
-    "iconURL": "https://cdn1.realmzer.xyz//IMG_4263-AB.png",
-    "tintColor": "f5896f",
-    "category": "entertainment",
-    "version": "2.0.1",
-    "versionDate" : "2024-12-2",
-    "downloadURL": "https://cdn1.realmzer.xyz//Hot_Tub_2_0_1_2-BC.ipa",
-    "size": 19610000,
-    "title": "Hot Tub",
-    "versions" : [
-      {
-        "version": "2.0.1",
-        "date" : "2024-12-2",
-        "downloadURL": "https://cdn1.realmzer.xyz//Hot_Tub_2_0_1_2-BC.ipa",
-        "size": 19610000
-      }
-    ]
-  },
   {
     "beta": false,
     "name": "Blackhole",
