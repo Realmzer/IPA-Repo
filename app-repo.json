@@ -768,13 +768,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4464-W4.jpeg",
       "tintColor": "848ef9",
       "category": "utilities",
-      "version" : "1.2.0",
-      "versionDate" : "2025-1-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_2_0-jp.ipa",
-      "size": 12590547,
+      "version" : "1.2.1",
+      "versionDate" : "2025-1-30",
+      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_2_1-xN.ipa",
+      "size": 12592601,
       "title": "Feather",
       "url": "https://github.com/khcrysalis/Feather/",
       "versions" : [
+        {
+          "version" : "1.2.1",
+          "date" : "2025-1-30",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_2_1-xN.ipa",
+          "size": 12592601
+        },
         {
           "version" : "1.2.0",
           "date" : "2025-1-25",
@@ -1863,12 +1869,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "265.0_70870",
-      "versionDate": "2025-1-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_12-aP.ipa",
-      "size": 88646062,
+      "version": "265.0_70974",
+      "versionDate": "2025-1-30",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_13-kH.ipa",
+      "size": 88646361,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "265.0_70974",
+          "date" : "2025-1-30",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_13-kH.ipa",
+          "size": 88646361 
+        },     
         {
           "version": "265.0_70870",
           "date" : "2025-1-29",
