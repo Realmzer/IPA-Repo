@@ -8377,5 +8377,15 @@
   }
   ],
   "news": [
+    {
+    "title": "Join the Discord!",
+    "identifier": "discordjoin",
+    "caption": "Join the Discord for updates and more!",
+    "date": "2025-01-31",
+    "tintColor": "#5165F7",
+    "imageURL": "https://cdn1.realmzer.xyz//Discord_Symbol_1141822239-fz.png",
+    "notify": true,
+    "url": "https://discord.gg/XH7TBnwGPC"
+    }
   ]
 }
