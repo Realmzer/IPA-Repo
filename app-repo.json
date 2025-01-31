@@ -216,6 +216,84 @@
     },
     {
       "beta": false,
+      "name" : "DirtyJIT",
+      "bundleIdentifier": "org.haxi0.DirtyJIT",
+      "developerName" : "haxi0",
+      "subtitle": "App that abuses the MDC vulnerability to enable JIT on supported apps.",
+      "description": "App that abuses the MDC vulnerability to enable JIT on supported apps. Please follow the in-app instructions!\nStatus: ✅🐞",
+      "localizedDescription": "App that abuses the MDC vulnerability to enable JIT on supported apps. Please follow the in-app instructions!\nStatus: ✅🐞",
+      "iconURL": "https://cdn1.realmzer.xyz//Dirty_JIT-bv.png",
+      "tintColor": "0084ff",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//Dirty_JIT_1_1-QZ.ipa",
+      "size": 676637,
+      "title": "DirtyJIT",
+      "url": "https://github.com/haxi0/DirtyJIT",
+      "versions" : [
+        {
+          "version": "1.1",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//Dirty_JIT_1_1-QZ.ipa",
+          "size": 676637
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "KillMyOTA",
+      "bundleIdentifier": "org.haxi0.KillMyOTA",
+      "developerName" : "haxi0",
+      "subtitle": "OTA Killer for iOS 15.0 - 16.1.2",
+      "description": "Block OTA updates on iOS 15.0 - 16.1.2\nStatus: ✅🐞",
+      "localizedDescription": "Block OTA updates on iOS 15.0 - 16.1.2\nStatus: ✅🐞",
+      "iconURL": "https://cdn1.realmzer.xyz//ios_marketing-3O.png",
+      "tintColor": "ffb300",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//Kill_My_OTA_1_1-lP.ipa",
+      "size": 339440,
+      "title": "KillMyOTA",
+      "url": "https://github.com/haxi0/KillMyOTA",
+      "versions" : [
+        {
+          "version": "1.1",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//Kill_My_OTA_1_1-lP.ipa",
+          "size": 339440
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "VanishBar",
+      "bundleIdentifier": "org.haxi0.VanishBar",
+      "developerName" : "haxi0 & sourcelocation",
+      "subtitle": "Make your Status Bar go bye-bye!",
+      "description": "Makes your status bar invisable.\niOS 15.5 - 16.1.2, no TrollStore or Jailbreak.\nStatus: ✅🐞",
+      "localizedDescription": "Makes your status bar invisable.\niOS 15.5 - 16.1.2, no TrollStore or Jailbreak.\nStatus: ✅🐞",
+      "iconURL": "https://cdn1.realmzer.xyz//Vanish_Bar-WZ.png",
+      "tintColor": "716fe6",
+      "category": "utilities",
+      "version": "1.1",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//Vanish_Bar_1_1-dB.ipa",
+      "size": 529744,
+      "title": "VanishBar",
+      "url": "https://github.com/haxi0/VanishBar/blob/main/VanishBar/",
+      "versions" : [
+        {
+          "version": "1.1",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//Vanish_Bar_1_1-dB.ipa",
+          "size": 529744
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "TrollInstallerX",
       "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "developerName" : "alfiecg24",
@@ -1222,6 +1300,31 @@
       "downloadURL": "https://cdn1.realmzer.xyz//WDB_Remove_Three_App_Limit_v1_0-IG.ipa",
       "title": "WDB-Remove-Three-App-Limit",
       "url": "https://github.com/zhuowei/WDBRemoveThreeAppLimit" 
+    },
+    {
+      "beta": false,
+      "name" : "RespringCC",
+      "bundleIdentifier": "com.straight-tamago.RespringCC",
+      "developerName" : "straight-tamago",
+      "subtitle": "iOS app that resprings - iOS 14.0-15.7.1 & 16.0-16.1.2",
+      "description": "iOS 14.0-15.7.1 & 16.0-16.1.2\nRespring button in control center🥺\nChange magnifier to respring\nStatus: ✅🐞",
+      "localizedDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2\nRespring button in control center🥺\nChange magnifier to respring\nStatus: ✅🐞",
+      "iconURL": "https://cdn1.realmzer.xyz//1024_7-bl.png",
+      "tintColor": "c8c8c8",
+      "category": "utilities",
+      "version": "1.4",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//Respring_CC_1_4-Ze.ipa",
+      "size": 282016,
+      "title": "RespringCC",
+      "versions": [
+        {
+          "version": "1.4",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//Respring_CC_1_4-Ze.ipa",
+          "size": 282016
+        }
+      ]
     },
     {
       "beta": false,
@@ -5882,6 +5985,31 @@
           "date" : "2025-1-31",
           "downloadURL": "https://cdn1.realmzer.xyz//Pure_PKG-AT.tipa",
           "size": 6637698
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Locchange",
+      "bundleIdentifier": "com.parkm.locchange",
+      "developerName" : "PARKasd",
+      "subtitle": "Changes your iDevice's region code",
+      "description": "This uses CVE 2022 46689 to change your iPhone's region code.\nPlease Backup Your Original Code.\nWrong Combination might brick your device. (Extremely low possibility)\nStatus: ✅🔵",
+      "localizedDescription": "This uses CVE 2022 46689 to change your iPhone's region code.\nPlease Backup Your Original Code.\nWrong Combination might brick your device. (Extremely low possibility)\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//Logo_3-uS.png",
+      "tintColor": "718662",
+      "category": "utilities",
+      "version": "4.0.3",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//locchange-pS.ipa",
+      "size": 372518,
+      "title": "Locchange",
+      "versions": [
+        {
+          "version": "4.0.3",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//locchange-pS.ipa",
+          "size": 372518
         }
       ]
     },
