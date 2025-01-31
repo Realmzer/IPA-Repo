@@ -1137,6 +1137,32 @@
     },
     {
       "beta": false,
+      "name" : "UTM Remote Virtual Machines",
+      "bundleIdentifier": "com.utmapp.UTM-Remote",
+      "developerName" : "utmapp",
+      "subtitle": "UTM Remote Virtual Machines - Remote desktop for VMs",
+      "description": "Run Windows®, Ubuntu®, and other operating systems remotely from your Mac running UTM\nUTM Remote allows you to stream your virtual machines from your Mac to your iOS device. Requires UTM for Mac to use.\nStatus: ✅",
+      "localizedDescription": "Run Windows®, Ubuntu®, and other operating systems remotely from your Mac running UTM\nUTM Remote allows you to stream your virtual machines from your Mac to your iOS device. Requires UTM for Mac to use.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//512x512bb_8-uQ.jpgg",
+      "tintColor": "3cda3c",
+      "category": "utilities",
+      "version" : "4.6.4",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM_Remote-rp.ipa",
+      "size": 31942085,
+      "title": "UTM Remote Virtual Machines",
+      "url": "https://getutm.app/",
+      "versions" : [
+        {
+          "version" : "4.6.4",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//UTM_Remote-rp.ipa",
+          "size": 31942085
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "OldOS", 
       "bundleIdentifier": "com.zurac.OldOS", 
       "developerName": "zzanehip", 
@@ -6015,6 +6041,32 @@
     },
     {
       "beta": false,
+      "name" : "UTM HV",
+      "bundleIdentifier": "com.utmapp.UTMhv",
+      "developerName" : "utmapp",
+      "subtitle": "UTM HV - Remote desktop for VMs (TrollStore Version)",
+      "description": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅🔵",
+      "localizedDescription": "UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//utm-el.png",
+      "tintColor": "1a3cc9",
+      "category": "utilities",
+      "version" : "4.6.4",
+      "versionDate" : "2025-1-31",
+      "downloadURL": "https://cdn1.realmzer.xyz//UTM_HV-5p.ipa",
+      "size": 126284039,
+      "title": "UTM HV",
+      "url": "https://getutm.app/",
+      "versions" : [
+        {
+          "version" : "4.6.4",
+          "date" : "2025-1-31",
+          "downloadURL": "https://cdn1.realmzer.xyz//UTM_HV-5p.ipa",
+          "size": 126284039
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName" : "Riley Testut",
@@ -8025,6 +8077,31 @@
         "date" : "2024-12-15",
         "downloadURL": "https://cdn1.realmzer.xyz//Minecraft_1_21_51-DY.ipa",
         "size": 96468992
+      }
+    ]
+  },
+  {
+    "beta": false,
+    "name": "Terraria",
+    "bundleIdentifier": "com.505games.terraria",
+    "developerName": "Re-Logic",
+    "subtitle": "Action-adventure sandbox",
+    "description": "The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are as unique as the players themselves!\n\nStatus: ✅🌟",
+    "localizedDescription": "The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are as unique as the players themselves!\n\nStatus: ✅🌟",
+    "iconURL": "https://cdn1.realmzer.xyz//unnamed_9-xC.png",
+    "tintColor": "1cb253",
+    "category": "games",
+    "version": "4.4.14",
+    "versionDate": "2025-1-31",
+    "downloadURL": "https://cdn1.realmzer.xyz//Terraria_v4_4_14_tg_glesign-l0.ipa",
+    "size": 160681857,
+    "title": "Terraria",
+    "versions" : [
+      {
+        "version": "4.4.14",
+        "date" : "2025-1-31",
+        "downloadURL": "https://cdn1.realmzer.xyz//Terraria_v4_4_14_tg_glesign-l0.ipa",
+        "size": 160681857
       }
     ]
   },
