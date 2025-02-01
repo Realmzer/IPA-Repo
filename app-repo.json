@@ -2050,12 +2050,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "265.0_70974",
-      "versionDate": "2025-1-30",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_13-kH.ipa",
-      "size": 88646361,
+      "version": "265.0_71109",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_14-RF.ipa",
+      "size": 88623369,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "265.0_71109",
+          "date": "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_14-RF.ipa",
+          "size": 88623369
+        },    
         {
           "version": "265.0_70974",
           "date" : "2025-1-30",
@@ -7658,12 +7664,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Icon60x60_3x-1u.png",
     "tintColor": "000000",
     "category": "utilities",
-    "version": "1.3.2-763",
-    "versionDate" : "2025-1-29",
-    "downloadURL": "https://cdn1.realmzer.xyz//i_SH_1-eB.ipa",
-    "size": 4565228,
+    "version": "1.3.2-764",
+    "versionDate" : "2025-2-1",
+    "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-Vp.ipa",
+    "size": 4565253,
     "title": "iSH",
     "versions": [
+      {
+        "version": "1.3.2-764",
+        "date" : "2025-2-1",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-Vp.ipa",
+        "size": 4565253
+      },
       {
         "version": "1.3.2-763",
         "date" : "2025-1-29",
