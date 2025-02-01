@@ -1694,13 +1694,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "2.0a1",
-      "versionDate": "2025-1-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_v2_0a1-32.deb",
-      "size": 4769472,
+      "version": "2.0a3",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_1-FD.deb",
+      "size": 4779344,
       "title": "Frida Code Manager (Root-Hide)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a3",
+          "date" : "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_1-FD.deb",
+          "size": 4779344
+        },
         {
           "version": "2.0a1",
           "date" : "2025-1-29",
@@ -1715,6 +1721,42 @@
           "size": 3166208
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Hide) v2.0 alpha 3",
+      "bundleIdentifier": "com.sparklechan.swiftyrh20a3",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a3",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_1-FD.deb",
+      "size": 4779344,
+      "title": "Frida Code Manager (Root-Hide) v2.0 alpha 3",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Hide) v2.0 alpha 2",
+      "bundleIdentifier": "com.sparklechan.swiftyrh20a2",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a2",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_2-UZ.deb",
+      "size": 4776120,
+      "title": "Frida Code Manager (Root-Hide) v2.0 alpha 2",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": true,
@@ -1763,13 +1805,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "2.0a1",
-      "versionDate": "2025-1-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_v2_0a1-Gp.deb",
-      "size": 4770140,
+      "version": "2.0a3",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless-OT.deb",
+      "size": 4779124,
       "title": "Frida Code Manager (Root-Less)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a3",
+          "date" : "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless-OT.deb",
+          "size": 4779124
+        },
         {
           "version": "2.0a1",
           "date" : "2025-1-29",
@@ -1784,6 +1832,42 @@
           "size": 3166104
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Less) v2.0 alpha 3",
+      "bundleIdentifier": "com.sparklechan.swiftyrl20a3",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a3",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless-OT.deb",
+      "size": 4779124,
+      "title": "Frida Code Manager (Root-Less) v2.0 alpha 3",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Less) v2.0 alpha 2",
+      "bundleIdentifier": "com.sparklechan.swiftyrl20a2",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a2",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_1-Ok.deb",
+      "size": 4776176,
+      "title": "Frida Code Manager (Root-Less) v2.0 alpha 2",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": true,
@@ -3923,17 +4007,48 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_2x_ipad-3b.png",
       "tintColor": "f89d48",
       "category": "utilities",
-      "version": "1.8.0",
-      "versionDate" : "2024-12-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-A6.tipa",
-      "size": 86016,
+      "version": "1.8.1",
+      "versionDate" : "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-h0.tipa",
+      "size": 83191,
       "title": "TrollLEDs",
       "versions": [
+        {
+          "version": "1.8.1",
+          "date" : "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-h0.tipa",
+          "size": 83191
+        },
         {
           "version": "1.8.0",
           "date" : "2024-12-21",
           "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs-A6.tipa",
           "size": 86016
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "TrollLEDs (Unsandboxed)",
+      "bundleIdentifier": "com.ps.TrollLEDsunsb",
+      "developerName" : "PoomSmart",
+      "subtitle": "A TrollStore application to control individual flashlight LEDs for iOS devices.",
+      "description": "A TrollStore application to control individual flashlight LEDs for iOS devices.\nWhen used on a jailbroken device, remove Amber tweak because this app will simply be overridden by it.\nStatus: ✅🔵",
+      "localizedDescription": "A TrollStore application to control individual flashlight LEDs for iOS devices.\nWhen used on a jailbroken device, remove Amber tweak because this app will simply be overridden by it.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_2x_ipad-3b.png",
+      "tintColor": "f89d48",
+      "category": "utilities",
+      "version": "1.8.1",
+      "versionDate" : "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs_unsandboxed-id.tipa",
+      "size": 83081,
+      "title": "TrollLEDs (Unsandboxed)",
+      "versions": [
+        {
+          "version": "1.8.1",
+          "date" : "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_LEDs_unsandboxed-id.tipa",
+          "size": 83081
         }
       ]
     },
@@ -5925,12 +6040,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//icon_1024_2-S0.png",
       "tintColor": "131920",
       "category": "utilities",
-      "version": "5afcd42",
-      "versionDate" : "2025-1-23",
-      "downloadURL": "https://cdn1.realmzer.xyz//var_Clean15_2-s4.tipa",
-      "size": 751539,
+      "version": "cc61712",
+      "versionDate" : "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//var_Clean15_4-vg.tipa",
+      "size": 758870,
       "title": "varClean Rootless",
       "versions": [
+        {
+          "version": "cc61712",
+          "date" : "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//var_Clean15_4-vg.tipa",
+          "size": 758870  
+        },
         {
           "version": "5afcd42",
           "date" : "2025-1-23",
