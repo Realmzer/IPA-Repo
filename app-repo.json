@@ -6330,12 +6330,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//x_Fmk_Q_Tz-5q.png",
       "tintColor": "ffc53c",
       "category": "games",
-      "version": "1.15.3",
-      "versionDate": "2024-09-26",
-      "downloadURL": "https://archive.org/download/ppsspp-gold-apk-ios/PPSSPPgold.app_v1.15.3-24-g5ff7c39e6.ipa",
-      "size": 195238232,
+      "version": "1.17.3",
+      "versionDate": "2025-2-1",
+      "downloadURL": "https://cdn1.realmzer.xyz//PPSSPP_Gold_v1_17_3-OB.ipa",
+      "size": 18926038,
       "title": "PPSSPP++",
       "versions" : [
+        {
+          "version": "1.17.3",
+          "date": "2025-2-1",
+          "downloadURL": "https://cdn1.realmzer.xyz//PPSSPP_Gold_v1_17_3-OB.ipa",
+          "size": 18926038
+        },
         {
           "version": "1.15.3",
           "date" : "2024-09-26",
