@@ -898,13 +898,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4464-W4.jpeg",
       "tintColor": "848ef9",
       "category": "utilities",
-      "version" : "1.2.1",
-      "versionDate" : "2025-1-30",
-      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_2_1-xN.ipa",
-      "size": 12592601,
+      "version" : "1.3.0",
+      "versionDate" : "2025-2-4",
+      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_3_0-J4.ipa",
+      "size": 12658710,
       "title": "Feather",
       "url": "https://github.com/khcrysalis/Feather/",
       "versions" : [
+        {
+          "version" : "1.3.0",
+          "date" : "2025-2-4",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_3_0-J4.ipa",
+          "size": 12658710
+        },
         {
           "version" : "1.2.1",
           "date" : "2025-1-30",
@@ -8275,12 +8281,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//fall_guys_mobile_icon_v0_d3n68howgkhd1-XP.png",
     "tintColor": "cb0e90",
     "category": "games",
-    "version": "11.5.0",
-    "versionDate": "2024-12-10",
-    "downloadURL": "https://github.com/vedma1337/EGS-IPA/releases/download/v11.5.0/Fall.Guys-11.5.0.ipa", 
+    "version": "11.6.0",
+    "versionDate": "2025-2-4",
+    "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa", 
     "size": 1964947537,
     "title": "Fall Guys",
     "versions" : [
+      {
+        "version": "11.6.0",
+        "date" : "2025-2-4",
+        "downloadURL": "https://github.com/appleipa/EpicGamesIPA/releases/download/v1.1.4/FallGuys-11.6.0.ipa", 
+        "size": 1964947537
+      },
       {
         "version": "11.5.0",
         "date" : "2024-12-10",
