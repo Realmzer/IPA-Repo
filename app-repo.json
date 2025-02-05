@@ -2140,12 +2140,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "266.0_71224",
-      "versionDate": "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_15-oy.ipa",
-      "size": 88451740,
+      "version": "266.0_71317",
+      "versionDate": "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_16-C1.ipa",
+      "size": 88453190,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "266.0_71317",
+          "date": "2025-2-5",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_16-C1.ipa",
+          "size": 88453190
+        }, 
         {
           "version": "266.0_71224",
           "date": "2025-2-4",
@@ -2465,13 +2471,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "9.0.14/Swift 5.8.6",
-      "versionDate": "2024-12-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_14_patched-bQ.ipa",
-      "size": 82538778,
+      "version": "9.0.16/Swift 5.8.7",
+      "versionDate": "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16-eg.ipa",
+      "size": 82753611,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions": [
+        {
+          "version": "9.0.16/Swift 5.8.7",
+          "date": "2025-2-5",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16-eg.ipa",
+          "size": 82753611 
+        },
         {
           "version": "9.0.14/Swift 5.8.6",
           "date": "2025-1-29",
@@ -3231,12 +3244,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "38.30-2.0",
-      "versionDate": "2025-1-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_3_0_AC_2_0_Moe-qR.ipa",
-      "size": 364079511,
+      "version": "38.40-2.0",
+      "versionDate": "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_4_0_AC_2_0_Moe-kS.ipa",
+      "size": 367130707,
       "title": "TikTokAC",
       "versions": [
+        {
+          "version": "38.40-2.0",
+          "date": "2025-2-5",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_4_0_AC_2_0_Moe-kS.ipa",
+          "size": 367130707
+        },
         {
           "version": "38.30-2.0",
           "date": "2025-1-29",
@@ -7053,13 +7072,25 @@
       "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
       "tintColor": "6633cc",
       "category": "games",
-      "version": "1.0.1",
-      "versionDate": "2025-1-29",
-      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-U1.ipa",
-      "size": 328873145,
+      "version": "1.0.2h",
+      "versionDate": "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-3Z.ipa",
+      "size": 329501453,
       "title": "Friday Night Funkin: Psych Engine",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
       "versions": [
+        {
+          "version": "1.0.2h",
+          "date": "2025-2-5",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-3Z.ipa",
+          "size": 329501453
+        },
+        {
+          "version": "1.0.2",
+          "date": "2025-2-5",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-Q4.ipa",
+          "size": 329498813
+        },
         {
           "version": "1.0.1",
           "date": "2025-1-29",
@@ -7091,6 +7122,42 @@
           "size": 219418624
         }
       ]
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: Psych Engine 1.0.2h",
+      "bundleIdentifier": "com.shadowmario.psychengine102h",
+      "developerName": "ShadowMario & MobilePorting",
+      "subtitle": "Psych Engine: Open Source FNF Engine",
+      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "tintColor": "6633cc",
+      "category": "games",
+      "version": "1.0.2h",
+      "versionDate" : "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-3Z.ipa",
+      "size": 329501453,
+      "title": "Friday Night Funkin: Psych Engine 1.0.2h",
+      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile"
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: Psych Engine 1.0.2",
+      "bundleIdentifier": "com.shadowmario.psychengine102",
+      "developerName": "ShadowMario & MobilePorting",
+      "subtitle": "Psych Engine: Open Source FNF Engine",
+      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "tintColor": "6633cc",
+      "category": "games",
+      "version": "1.0.2",
+      "versionDate" : "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-Q4.ipa",
+      "size": 329498813,
+      "title": "Friday Night Funkin: Psych Engine 1.0.2",
+      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile"
     },
     {
       "beta": false,
