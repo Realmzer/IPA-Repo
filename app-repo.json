@@ -2553,14 +2553,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//Spot_C_App_Icon-vE.png",
       "tintColor": "9c22f4",
       "category": "entertainment",
-      "version": "2.3.9",
-      "versionDate": "2025-1-13",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_9_v9_0_8-CJ.ipa",
-      "size": 79336940,
+      "version": "2.4.2",
+      "versionDate": "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_4_2_v9_0_16-ys.ipa",
+      "size": 78676527,
       "title": "SpotC++",
       "url": "https://github.com/SpotCompiled/SpotC-Plus-Plus",
       "versions": [
-          {
+        {
+          "version": "2.4.2",
+          "date": "2025-2-5",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_4_2_v9_0_16-ys.ipa",
+          "size": 78676527
+        },
+        {
           "version": "2.3.9",
           "date": "2025-1-13",
           "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_3_9_v9_0_8-CJ.ipa",
@@ -2613,13 +2619,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
       "tintColor": "ff0000",
       "category": "entertainment",
-      "version": "3.2.9",
-      "versionDate": "2025-1-13",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_2_9_v9_0_8-DZ.ipa",
-      "size": 78960015,
+      "version": "3.3.2",
+      "versionDate": "2025-2-5",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_3_2_v9_0_16-We.ipa",
+      "size": 78299590,
       "title": "SpotveeC",
       "url": "https://github.com/SpotCompiled/SpotveeC",
       "versions": [
+        {
+          "version": "3.3.2",
+          "date": "2025-2-5",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_3_2_v9_0_16-We.ipa",
+          "size": 78299590
+        },
         {
           "version": "3.2.9",
           "date": "2025-1-13",
