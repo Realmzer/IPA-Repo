@@ -2477,13 +2477,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "9.0.16/Swift 5.8.7",
-      "versionDate": "2025-2-5",
-      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16-eg.ipa",
-      "size": 82753611,
+      "version": "9.0.16/Swift 5.8.7 (Patched)",
+      "versionDate": "2025-2-6",
+      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16_patched-Yo.ipa",
+      "size": 83017872,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions": [
+        {
+          "version": "9.0.16/Swift 5.8.7 (Patched)",
+          "date": "2025-2-6",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16_patched-Yo.ipa",
+          "size": 83017872 
+        },
         {
           "version": "9.0.16/Swift 5.8.7",
           "date": "2025-2-5",
@@ -2859,12 +2866,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "366.0-1.2",
-      "date": "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_AC_1_2_Moe-85.ipa",
-      "size": 144626430,
+      "version": "366.0-1.3",
+      "date": "2025-2-6",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_AC_1_3_Moe-6R.ipa",
+      "size": 144627183,
       "title": "Instagram AC",
       "versions": [
+        {
+          "version": "366.0-1.3",
+          "date": "2025-2-6",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_AC_1_3_Moe-6R.ipa",
+          "size": 144627183
+        },
         {
           "version": "366.0-1.2",
           "date": "2025-2-4",
@@ -7871,12 +7884,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "26.6.3",
-    "versionDate" : "2025-1-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_6_3_Moe_Pro-2j.ipa",
-    "size": 100120395,
+    "version": "26.8.2",
+    "versionDate" : "2025-2-6",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_8_2_Moe_Pro-vu.ipa",
+    "size": 101615295,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "26.8.2",
+        "date" : "2025-2-6",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_8_2_Moe_Pro-vu.ipa",
+        "size": 101615295
+      },
       {
         "version": "26.6.3",
         "date" : "2025-1-21",
