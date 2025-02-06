@@ -2140,12 +2140,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "266.0_71317",
-      "versionDate": "2025-2-5",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_16-C1.ipa",
-      "size": 88453190,
+      "version": "266.0_71382",
+      "versionDate": "2025-2-6",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_17-Du.ipa",
+      "size": 88452414,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "266.0_71382",
+          "date": "2025-2-6",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_17-Du.ipa",
+          "size": 88452414
+        }, 
         {
           "version": "266.0_71317",
           "date": "2025-2-5",
