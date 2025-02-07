@@ -1204,13 +1204,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//localsend-q5.png",
       "tintColor": "008080",
       "category": "utilities",
-      "version": "1.15.4",
-      "versionDate" : "2024-10-30",
-      "downloadURL": "https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_15_4-VP.ipa",
-      "size": 16416768,
+      "version": "1.16.2",
+      "versionDate" : "2025-2-6",
+      "downloadURL": "https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_16_2_eeveedecrypter-iz.ipa",
+      "size": 20879824,
       "title": "LocalSend",
       "url": "https://github.com/localsend/localsend",
       "versions" : [
+        {
+          "version": "1.16.2",
+          "date" : "2025-2-6",
+          "downloadURL": "https://cdn1.realmzer.xyz//org_localsend_localsend_App_1_16_2_eeveedecrypter-iz.ipa",
+          "size": 20879824
+        },
         {
           "version": "1.15.4",
           "date" : "2024-10-30",
@@ -1253,7 +1259,7 @@
       "developerName": "Winter Bagley",
       "description": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
       "localizedDescription": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
-      "iconURL": "https://cdn1.realmzer.xyz//images_3-0X.png",
+      "iconURL": "https://cdn1.realmzer.xyz//Screenshot_2025_02_06_at_20_13_37_i_Plist_Gen_on_the_App_Store-cS.png",
       "tintColor": "29505e",
       "category": "utilities",
       "version": "1.0.0",
