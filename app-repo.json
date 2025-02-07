@@ -1706,13 +1706,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "2.0a3",
-      "versionDate": "2025-2-1",
-      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_1-FD.deb",
-      "size": 4779344,
+      "version": "2.0a4",
+      "versionDate": "2025-2-7",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_3-1s.deb",
+      "size": 4779072,
       "title": "Frida Code Manager (Root-Hide)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a4",
+          "date" : "2025-2-7",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_3-1s.deb",
+          "size": 4779072
+        },
         {
           "version": "2.0a3",
           "date" : "2025-2-1",
@@ -1733,6 +1739,24 @@
           "size": 3166208
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Hide) v2.0 alpha 4",
+      "bundleIdentifier": "com.sparklechan.swiftyrh20a4",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a4",
+      "versionDate": "2025-2-7",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_3-1s.deb",
+      "size": 4779072,
+      "title": "Frida Code Manager (Root-Hide) v2.0 alpha 4",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": true,
@@ -1817,13 +1841,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "2.0a3",
-      "versionDate": "2025-2-1",
-      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless-OT.deb",
-      "size": 4779124,
+      "version": "2.0a4",
+      "versionDate": "2025-2-7",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_2-Oy.deb",
+      "size": 4779276,
       "title": "Frida Code Manager (Root-Less)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a4",
+          "date" : "2025-2-7",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_2-Oy.deb",
+          "size": 4779276
+        },
         {
           "version": "2.0a3",
           "date" : "2025-2-1",
@@ -1844,6 +1874,24 @@
           "size": 3166104
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Less) v2.0 alpha 4",
+      "bundleIdentifier": "com.sparklechan.swiftyrl20a4",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a4",
+      "versionDate": "2025-2-7",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_2-Oy.deb",
+      "size": 4779276,
+      "title": "Frida Code Manager (Root-Less) v2.0 alpha 4",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": true,
@@ -2483,13 +2531,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "9.0.16/Swift 5.8.7 (Patched)",
-      "versionDate": "2025-2-6",
+      "version": "9.0.16/Swift 5.8.7 (Patched PT2)",
+      "versionDate": "2025-2-7",
       "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16_patched-Yo.ipa",
       "size": 83017872,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions": [
+        {
+          "version": "9.0.16/Swift 5.8.7 (Patched PT2)",
+          "date": "2025-2-7",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16_patched-Yo.ipa",
+          "size": 83017872 
+        },
         {
           "version": "9.0.16/Swift 5.8.7 (Patched)",
           "date": "2025-2-6",
@@ -3134,13 +3189,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.05.4-5.1-feb3",
-      "versionDate" : "2025-2-2",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb3rd_Moe-l4.ipa",
-      "size": 112883681,
+      "version": "20.05.4-5.1-feb7",
+      "versionDate" : "2025-2-7",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb7th_Moe-jo.ipa",
+      "size": 112883684,
       "title": "YouTube Plus",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.05.4-5.1-feb7",
+          "date" : "2025-2-7",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb7th_Moe-jo.ipa",
+          "size": 112883684
+        },
         {
           "version": "20.05.4-5.1-feb3",
           "date" : "2025-2-2",
@@ -3181,13 +3243,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.05.4-5.1-feb3",
-      "versionDate" : "2025-2-2",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb3rd_Moe-zZ.ipa",
-      "size": 113014829,
+      "version": "20.05.4-5.1-feb7",
+      "versionDate" : "2025-2-7",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb7th_Moe-Wm.ipa",
+      "size": 113015385,
       "title": "YouTube Plus + Tweaks",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.05.4-5.1-feb7",
+          "date" : "2025-2-7",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb7th_Moe-Wm.ipa",
+          "localizedDescription": "From: Sultan Mods",
+          "size": 113015385
+        },
         {
           "version": "20.05.4-5.1-feb3",
           "date" : "2025-2-2",
