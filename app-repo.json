@@ -8083,17 +8083,17 @@
     "iconURL": "https://cdn1.realmzer.xyz//Icon60x60_3x-1u.png",
     "tintColor": "000000",
     "category": "utilities",
-    "version": "1.3.2-764",
-    "versionDate" : "2025-2-1",
-    "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-Vp.ipa",
-    "size": 4565253,
+    "version": "1.3.2-765",
+    "versionDate" : "2025-2-8",
+    "downloadURL": "https://cdn1.realmzer.xyz//i_SH-Gw.ipa",
+    "size": 4565235,
     "title": "iSH",
     "versions": [
       {
         "version": "1.3.2-764",
         "date" : "2025-2-1",
         "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-Vp.ipa",
-        "size": 4565253
+        "size": 4565235
       },
       {
         "version": "1.3.2-763",
