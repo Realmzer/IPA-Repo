@@ -8090,10 +8090,16 @@
     "title": "iSH",
     "versions": [
       {
+        "version": "1.3.2-765",
+        "date" : "2025-2-8",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_SH-Gw.ipa",
+        "size": 4565235
+      },
+      {
         "version": "1.3.2-764",
         "date" : "2025-2-1",
         "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-Vp.ipa",
-        "size": 4565235
+        "size": 4565253
       },
       {
         "version": "1.3.2-763",
