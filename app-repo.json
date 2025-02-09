@@ -8879,6 +8879,32 @@
           "size": 600638751
         }
       ]
+    },
+    {
+      "beta": false,
+      "name" : "Poppy Playtime Chapter 3",
+      "bundleIdentifier": "com.MobEntertainment.PoppyPlaytimeChapter3",
+      "developerName" : "Mob Entertainment, Inc",
+      "subtitle": "Poppy Playtime - An episodic survival horror",
+      "description": "A decrepit orphanage known as Playcare sits beneath the once magical toy factory. You must make your way through this haunted place, solving new puzzles and avoiding the nightmares that lurk within the dark. Answers lie between the blood-stained bed sheets and screaming echoes... If you can survive.\nStatus: ✅🌟",
+      "localizedDescription": "A decrepit orphanage known as Playcare sits beneath the once magical toy factory. You must make your way through this haunted place, solving new puzzles and avoiding the nightmares that lurk within the dark. Answers lie between the blood-stained bed sheets and screaming echoes... If you can survive.\nStatus: ✅🌟",
+      "iconURL": "https://cdn1.realmzer.xyz//100x100bb-oE.jpg",
+      "tintColor": "832f7f",
+      "category": "games",
+      "version": "1.0",
+      "versionDate" : "2025-2-9",
+      "downloadURL": "http://cdn1.realmzer.xyz/Poppy-Playtime-Chapter-3-v1-01.ipa",
+      "size": 2569152937,
+      "title": "Poppy Playtime Chapter 3",
+      "url": "https://apps.apple.com/us/app/poppy-playtime-chapter-3/id6503954810",
+      "versions" : [
+        {
+          "version": "1.0",
+          "date" : "2025-2-9",
+          "downloadURL": "http://cdn1.realmzer.xyz/Poppy-Playtime-Chapter-3-v1-01.ipa",
+          "size": 2569152937
+        }
+      ]
     }
   ],
   "news": [
