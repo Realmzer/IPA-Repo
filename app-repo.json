@@ -898,13 +898,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Mac_3x_1-2p.png",
       "tintColor": "848ef9",
       "category": "utilities",
-      "version" : "1.3.0",
-      "versionDate" : "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_3_0-J4.ipa",
-      "size": 12658710,
+      "version" : "1.3.1",
+      "versionDate" : "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_3_1-Zm.ipa",
+      "size": 12657005,
       "title": "Feather",
       "url": "https://github.com/khcrysalis/Feather/",
       "versions" : [
+        {
+          "version" : "1.3.1",
+          "date" : "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//feather_v1_3_1-Zm.ipa",
+          "size": 12657005
+        },
         {
           "version" : "1.3.0",
           "date" : "2025-2-4",
@@ -2890,12 +2896,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "366.0-1.2",
-      "date": "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_Theta1_2_Moe-Pq.ipa",
-      "size": 144919789,
+      "version": "367.0-1.2",
+      "date": "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_Theta1_2_Moe-Sq.ipa",
+      "size": 145537398,
       "title": "Instagram Theta",
       "versions": [
+        {
+          "version": "367.0-1.2",
+          "date": "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_Theta1_2_Moe-Sq.ipa",
+          "size": 145537398
+        },
         {
           "version": "366.0-1.2",
           "date": "2025-2-4",
@@ -2933,12 +2945,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "366.0-1.3",
-      "date": "2025-2-6",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_AC_1_3_Moe-6R.ipa",
-      "size": 144627183,
+      "version": "367.0-1.3",
+      "date": "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_AC_1_3_Moe-Iq.ipa",
+      "size": 145244105,
       "title": "Instagram AC",
       "versions": [
+        {
+          "version": "367.0-1.3",
+          "date": "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_AC_1_3_Moe-Iq.ipa",
+          "size": 145244105
+        },
         {
           "version": "366.0-1.3",
           "date": "2025-2-6",
@@ -2988,12 +3006,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "366.0-1.4.8",
-      "date": "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_NYX_1_4_8_Beta_Moe-sb.ipa",
-      "size": 147352590,
+      "version": "367.0-1.5.0",
+      "date": "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_NYX_1_5_0_Beta_Moe-i5.ipa",
+      "size": 148087003,
       "title": "Instagram NYX",
       "versions": [
+        {
+          "version": "367.0-1.5.0",
+          "date": "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_NYX_1_5_0_Beta_Moe-i5.ipa",
+          "size": 148087003 
+        },
         {
           "version": "366.0-1.4.8",
           "date": "2025-2-4",
@@ -3031,12 +3055,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "366.0-1.1",
-      "date": "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_0_BH_1_1_Moe-Bn.ipa",
-      "size": 144225002,
+      "version": "367.0-1.1",
+      "date": "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_BH_1_1_Moe-CG.ipa",
+      "size": 144842683,
       "title": "Instagram BH",
       "versions": [
+        {
+          "version": "367.0-1.1",
+          "date": "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_BH_1_1_Moe-CG.ipa",
+          "size": 144842683
+        },
         {
           "version": "366.0-1.1",
           "date": "2025-2-4",
@@ -3060,6 +3090,31 @@
           "date": "2025-1-17",
           "downloadURL": "https://cdn1.realmzer.xyz//Instagram363_0_BH_1_1_Moe-9j.ipa",
           "size": 144735750
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Instagram IGFormat", 
+      "bundleIdentifier": "com.burbn.instagram6", 
+      "developerName": "Meta & RRRBG", 
+      "subtitle": "Instagram Tweak",
+      "description": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
+      "localizedDescription": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
+      "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
+      "tintColor": "fe0297",
+      "category": "social",
+      "version": "367.0-1.71",
+      "date": "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_IG_Format1_71_Moe-Cf.ipa",
+      "size": 144729514,
+      "title": "Instagram IGFormat",
+      "versions": [
+        {
+          "version": "367.0-1.71",
+          "date": "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_IG_Format1_71_Moe-Cf.ipa",
+          "size": 144729514
         }
       ]
     },
@@ -3195,13 +3250,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.05.4-5.1-feb9",
-      "versionDate" : "2025-2-9",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb9th_Moe-Lr.ipa",
-      "size": 113015320,
+      "version": "20.05.4-5.1-feb10",
+      "versionDate" : "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb10th_Moe-6d.ipa",
+      "size": 112883363,
       "title": "YouTube Plus",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.05.4-5.1-feb10",
+          "date" : "2025-2-10",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb10th_Moe-6d.ipa",
+          "size": 112883363
+        },
         {
           "version": "20.05.4-5.1-feb9",
           "date" : "2025-2-9",
@@ -3263,13 +3325,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.05.4-5.1-feb9",
-      "versionDate" : "2025-2-9",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb9th_Moe-WY.ipa",
-      "size": 112883682,
+      "version": "20.05.4-5.1-feb10",
+      "versionDate" : "2025-2-10",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb10th_Moe-lK.ipaa",
+      "size": 113015004,
       "title": "YouTube Plus + Tweaks",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.05.4-5.1-feb10",
+          "date" : "2025-2-10",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb10th_Moe-lK.ipa",
+          "localizedDescription": "From: Sultan Mods",
+          "size": 113015004
+        },
         {
           "version": "20.05.4-5.1-feb9",
           "date" : "2025-2-9",
