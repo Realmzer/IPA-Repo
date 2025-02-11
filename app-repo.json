@@ -2200,12 +2200,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "267.0_71521",
-      "versionDate": "2025-2-9",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny-pF.ipa",
-      "size": 88521799,
+      "version": "266.0",
+      "versionDate": "2025-2-11",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny-vC.ipa",
+      "size": 88451372,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "266.0",
+          "date": "2025-2-11",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny-vC.ipa",
+          "size": 88451372
+        }, 
         {
           "version": "267.0_71521",
           "date": "2025-2-9",
@@ -3161,17 +3167,17 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
       "tintColor": "ff2120",
       "category": "entertainment",
-      "version": "8.0.5",
-      "versionDate": "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_05_Jacks_Apps-PK.ipa",
-      "size": 81572813,
+      "version": "8.0.6",
+      "versionDate": "2025-2-11",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_06_Jacks_Apps-Mh.ipa",
+      "size": 81583662,
       "title": "YTMusicUltimate+",
       "versions": [
         {
-          "version": "8.05",
-          "date": "2025-02-4",
-          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_05_Jacks_Apps-PK.ipa",
-          "size": 81572813
+          "version": "8.0.6",
+          "date": "2025-02-11",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_06_Jacks_Apps-Mh.ipa",
+          "size": 81583662
         },
         {
           "version": "8.03",
@@ -3250,13 +3256,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.05.4-5.1-feb10",
-      "versionDate" : "2025-2-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb10th_Moe-6d.ipa",
-      "size": 112883363,
+      "version": "20.06-5.1-feb12",
+      "versionDate" : "2025-2-11",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_06_03_YT_Lite5_1_Basic_Feb12th_Moe-8S.ipa",
+      "size": 112220072,
       "title": "YouTube Plus",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.06-5.1-feb12",
+          "date" : "2025-2-12",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_06_03_YT_Lite5_1_Basic_Feb12th_Moe-8S.ipa",
+          "size": 112220072
+        },
         {
           "version": "20.05.4-5.1-feb10",
           "date" : "2025-2-10",
@@ -3325,13 +3338,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.05.4-5.1-feb10",
-      "versionDate" : "2025-2-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb10th_Moe-lK.ipaa",
-      "size": 113015004,
+      "version": "20.06-5.1-feb12",
+      "versionDate" : "2025-2-11",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_06_03_YT_Lite5_1_Full_Feb12th_Moe-ue.ipa",
+      "size": 112351648,
       "title": "YouTube Plus + Tweaks",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.06-5.1-feb12",
+          "date" : "2025-2-11",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_06_03_YT_Lite5_1_Full_Feb12th_Moe-ue.ipa",
+          "localizedDescription": "From: Sultan Mods",
+          "size": 112351648
+        },
         {
           "version": "20.05.4-5.1-feb10",
           "date" : "2025-2-10",
