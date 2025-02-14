@@ -9131,7 +9131,7 @@
       "name" : "Call of Mini Zombies Online",
       "bundleIdentifier": "com.realmzer.comz1",
       "developerName" : "Realmzer, ChoppySloppy542, Zweronz, Triniti",
-      "subtitle": "iOS Port of Call of Mini Zombies with Online support",
+      "subtitle": "iOS x64 Port of Call of Mini Zombies with Online support",
       "description": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
       "localizedDescription": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_2x_ipad-Ck.png",
@@ -9148,6 +9148,181 @@
           "date" : "2025-02-14",
           "downloadURL": "https://cdn1.realmzer.xyz//Co_MZ_1fixedmaybe-Al.ipa",
           "size": 131558557
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Bully: Anniversary Edition",
+      "bundleIdentifier": "com.rockstargames.bully",
+      "developerName" : "Rockstar Games",
+      "subtitle": "Survive the Worst School Year",
+      "description": "As mischievous 15-year-old Jimmy Hopkins you’ll navigate the social hierarchy of the corrupt and crumbling prep school, Bullworth Academy. Stand up to bullies, get picked on by teachers, beat the jocks at dodge ball, play pranks, win or lose the girl and survive a year in the worst school around.\nStatus: ✅",
+      "localizedDescription": "As mischievous 15-year-old Jimmy Hopkins you’ll navigate the social hierarchy of the corrupt and crumbling prep school, Bullworth Academy. Stand up to bullies, get picked on by teachers, beat the jocks at dodge ball, play pranks, win or lose the girl and survive a year in the worst school around.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//bully_anniversary_edition-hc.png",
+      "tintColor": "02457c",
+      "category": "games",
+      "version": "1.1",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz/25159-Bully-Anniversary-Edition-v1-1.ipa",
+      "size": 1867810505,
+      "title": "Bully: Anniversary Edition",
+      "versions" : [
+        {
+          "version": "1.1",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz/25159-Bully-Anniversary-Edition-v1-1.ipa",
+          "size": 1867810505
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "CHUCHEL",
+      "bundleIdentifier": "com.amanitadesign.chuchel.ios",
+      "developerName" : "Amanita Design s.r.o.",
+      "subtitle": "An adorably mad adventure",
+      "description": "CHUCHEL is a comedy adventure game from the creators of Machinarium, Botanicula and Samorost. Join the hairy hero Chuchel and his rival Kekel in their quest to retrieve the precious cherry and face numerous puzzles and challenges!\nStatus: ✅",
+      "localizedDescription": "CHUCHEL is a comedy adventure game from the creators of Machinarium, Botanicula and Samorost. Join the hairy hero Chuchel and his rival Kekel in their quest to retrieve the precious cherry and face numerous puzzles and challenges!\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//chuchel-Sk.png",
+      "tintColor": "fe6e07",
+      "category": "games",
+      "version": "2.0.14",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//CHUCHEL_v2_0_14-2c.ipa",
+      "size": 761271967,
+      "title": "CHUCHEL",
+      "versions" : [
+        {
+          "version": "2.0.14",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//CHUCHEL_v2_0_14-2c.ipa",
+          "size": 761271967
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Getting Over It",
+      "bundleIdentifier": "net.Foddy.GettingOverIt",
+      "developerName" : "Bennett Foddy",
+      "subtitle": "with Bennett Foddy",
+      "description": "• Climb up an enormous mountain with nothing but a hammer and a pot.\n• Listen as I make philosophical observations about the problem at hand.\n• Between 2 and ∞ hours of agonizing gameplay, depending. The median time to finish for my playtesters was 5 hours, but the mean was closer to ∞.\n• Lose all your progress, over and over.\n• Feel new types of frustration you didn't know you were capable of.\nStatus: ✅",
+      "localizedDescription": "• Climb up an enormous mountain with nothing but a hammer and a pot.\n• Listen as I make philosophical observations about the problem at hand.\n• Between 2 and ∞ hours of agonizing gameplay, depending. The median time to finish for my playtesters was 5 hours, but the mean was closer to ∞.\n• Lose all your progress, over and over.\n• Feel new types of frustration you didn't know you were capable of.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//100x100bb_2-nF.jpg",
+      "tintColor": "0094e2",
+      "category": "games",
+      "version": "1.14",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Getting_Over_It_1_14_1680157839-DB.ipa",
+      "size": 123590711,
+      "title": "Getting Over It",
+      "versions" : [
+        {
+          "version": "1.14",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Getting_Over_It_1_14_1680157839-DB.ipa",
+          "size": 123590711
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "Papers, Please",
+      "bundleIdentifier": "co.3909.papersplease",
+      "developerName" : "3909",
+      "subtitle": "Border Inspector Game",
+      "description": "A dystopian document thriller.\nThe award-winning, critically-acclaimed border inspector game.\nStatus: ✅",
+      "localizedDescription": "A dystopian document thriller.\nThe award-winning, critically-acclaimed border inspector game.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//papers_please-VL.png",
+      "tintColor": "bb3922",
+      "category": "games",
+      "version": "1.4.12",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Papers_Please_v1_4_12-qQ.ipa",
+      "size": 37449933,
+      "title": "Papers, Please",
+      "versions" : [
+        {
+          "version": "1.4.12",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Papers_Please_v1_4_12-qQ.ipa",
+          "size": 37449933
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "One Night at Flumpty's 2",
+      "bundleIdentifier": "com.clickteam.onaf2",
+      "developerName" : "CLICKTEAM LLC USA",
+      "subtitle": "The Egg returns...",
+      "description": "The Egg returns...Welcome one and all to Flumpty Bumpty's, If the light's turned off then you're safe, If the lights are on then they'll come find you, And rip you a brand new face.\nOnce again Flumpty Bumpty and his assortment of awesome friends have invited you (kidnapped) to a special place to play a game!\nAll you need to do is avoid them untill it's 6am and they will become your brand new best friends.\nIf you the get to you before 6am well... best not think about it.\nThis new and exciting place is full of different set of rules you will need to learn quick and your only tools available include a light switch computer running with an old battery and a couple of vents.\nGood luck and hope you make some great life long friends...\nStatus: ✅",
+      "localizedDescription": "The Egg returns...Welcome one and all to Flumpty Bumpty's, If the light's turned off then you're safe, If the lights are on then they'll come find you, And rip you a brand new face.\nOnce again Flumpty Bumpty and his assortment of awesome friends have invited you (kidnapped) to a special place to play a game!\nAll you need to do is avoid them untill it's 6am and they will become your brand new best friends.\nIf you the get to you before 6am well... best not think about it.\nThis new and exciting place is full of different set of rules you will need to learn quick and your only tools available include a light switch computer running with an old battery and a couple of vents.\nGood luck and hope you make some great life long friends...\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//100x100bb_3-zZ.jpg",
+      "tintColor": "cb8581",
+      "category": "games",
+      "version": "1.0.1",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//One_Night_at_Flumptys_2_v1_0_1-Ir.ipa",
+      "size": 104672551,
+      "title": "One Night at Flumpty's 2",
+      "versions" : [
+        {
+          "version": "1.0.1",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//One_Night_at_Flumptys_2_v1_0_1-Ir.ipa",
+          "size": 104672551
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "LIMBO",
+      "bundleIdentifier": "com.playdeadgames.limbo.ios",
+      "developerName" : "Playdead",
+      "subtitle": "Uncertain of his sister's fate, a boy enters LIMBO.",
+      "description": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.\nStatus: ✅",
+      "localizedDescription": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//limbo-mT.png",
+      "tintColor": "666666",
+      "category": "games",
+      "version": "1.2.2",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//LIMBO_v1_2_2-Oh.ipa",
+      "size": 142690525,
+      "title": "LIMBO",
+      "versions" : [
+        {
+          "version": "1.2.2",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//LIMBO_v1_2_2-Oh.ipa",
+          "size": 142690525
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "DOOM",
+      "bundleIdentifier": "com.idsoftware.Doom",
+      "developerName" : "Bethesda",
+      "subtitle": "DOOM",
+      "description": "Celebrate DOOM’s 25th anniversary with the re-release of the original DOOM (1993), including the expansion, Thy Flesh Consumed, is now available on iOS devices. First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\nStatus: ✅",
+      "localizedDescription": "Celebrate DOOM’s 25th anniversary with the re-release of the original DOOM (1993), including the expansion, Thy Flesh Consumed, is now available on iOS devices. First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//doom-qQ.png",
+      "tintColor": "e3ad5c",
+      "category": "games",
+      "version": "2.9.6",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//DOOM_v2_9_6-7T.ipa",
+      "size": 283010176,
+      "title": "DOOM",
+      "versions" : [
+        {
+          "version": "2.9.6",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//DOOM_v2_9_6-7T.ipa",
+          "size": 283010176
         }
       ]
     }
