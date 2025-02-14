@@ -1489,7 +1489,7 @@
       "size": 8192,
       "version": "1.3.1",
       "versionDate": "2024-11-17",
-      "downloadURL": "https://cdn1.realmzer.xyz/com_ps_cahighfps_1_3_1_iphoneos_arm64-9E.deb",
+      "downloadURL": "https://cdn1.realmzer.xyz//com_ps_cahighfps_1_3_1_iphoneos_arm64-ZH.deb",
       "title": "CA-High-FPS",
       "url": "https://www.ios-repo-updates.com/repository/poomsmart/" 
     },
@@ -1565,11 +1565,11 @@
     },
     {
       "beta": false,
-      "name": "Sideload Keychain Fix",
+      "name": "SideloadKeychainFix",
       "bundleIdentifier": "com.realmzer.slkcfx",
       "subtitle": "iOS Sideloading Keychain Patch",
-      "description": "Blocks some apps sideloading protections and adds a keychain fix.\nStatus: ❔✨",
-      "localizedDescription": "Blocks some apps sideloading protections and adds a keychain fix.\nStatus: ❔✨",
+      "description": "Blocks some apps sideloading protections and adds a keychain fix.\nFixes errors with logins in almost every app.\nStatus: ❔✨",
+      "localizedDescription": "Blocks some apps sideloading protections and adds a keychain fix.\nFixes errors with logins in almost every app.\nStatus: ❔✨",
       "developerName": "Unknown",
       "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
       "tintColor": "31d2f7",
@@ -1578,7 +1578,7 @@
       "version": "1.0",
       "versionDate": "2024-12-20",
       "downloadURL": "https://cdn1.realmzer.xyz//Sideload_Keychain_Fix-Xh.dylib",
-      "title": "Sideload Keychain Fix"
+      "title": "SideloadKeychainFix"
     },
     {
       "beta": false,
@@ -1700,6 +1700,57 @@
       "versionDate": "2024-12-27",
       "downloadURL": "https://cdn1.realmzer.xyz//com_leemin_lstimelightning16_0_3_iphoneos_arm64-55.deb",
       "title": "LightningTime"
+    },
+    {
+      "beta": false,
+      "name": "AutoCacheDelete",
+      "bundleIdentifier": "com.realmzer.autocachedelete",
+      "subtitle": "Automatic Cache Clearer",
+      "description": "Auto Clear App’s Cache If cache goes over 100Mb.\nStatus: ✅✨\nFrom: ethSign",
+      "localizedDescription": "Auto Clear App’s Cache If cache goes over 100Mb.\nStatus: ✅✨\nFrom: ethSign",
+      "developerName": "Unknown",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "31d2f7",
+      "category": "dylib",
+      "size": 84624,
+      "version": "1.0",
+      "versionDate": "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Auto_Cache_Delete-vg.dylib",
+      "title": "AutoCacheDelete"
+    },
+    {
+      "beta": false,
+      "name": "LibSubstrate",
+      "bundleIdentifier": "com.realmzer.libsubstrate",
+      "subtitle": "Framework to Modify and Inject code.",
+      "description": "A framework used for modifying and injecting code into iOS applications at runtime\nStatus: ✅✨\nFrom: ethSign",
+      "localizedDescription": "A framework used for modifying and injecting code into iOS applications at runtime\nStatus: ✅✨\nFrom: ethSign",
+      "developerName": "EthSign",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "31d2f7",
+      "category": "dylib",
+      "size": 5900400,
+      "version": "1.0",
+      "versionDate": "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Lib_Substrate-hV.dylib",
+      "title": "LibSubstrate"
+    },
+    {
+      "beta": false,
+      "name": "sideloadFixerLol",
+      "bundleIdentifier": "com.realmzer.sideloadfixerlol",
+      "subtitle": "Fixes crashing when an app is opened",
+      "description": "Fixes crashing when an app is opened\nStatus: ✅✨\nFrom: ethSign",
+      "localizedDescription": "Fixes crashing when an app is opened\nStatus: ✅✨\nFrom: ethSign",
+      "developerName": "EthSign",
+      "iconURL": "https://cdn1.realmzer.xyz//tweakicon-Br.png",
+      "tintColor": "31d2f7",
+      "category": "dylib",
+      "size": 51360,
+      "version": "1.0",
+      "versionDate": "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//sideload_Fixer_Lol-yd.dylib",
+      "title": "sideloadFixerLol"
     },
     {
       "beta": true,
@@ -9072,6 +9123,31 @@
           "date" : "2025-02-9",
           "downloadURL": "http://cdn1.realmzer.xyz/Poppy-Playtime-Chapter-3-v1-01.ipa",
           "size": 2569152937
+        }
+      ]
+    },
+    {
+      "beta": true,
+      "name" : "Call of Mini Zombies Online",
+      "bundleIdentifier": "com.realmzer.comz1",
+      "developerName" : "Realmzer, ChoppySloppy542, Zweronz, Triniti",
+      "subtitle": "iOS Port of Call of Mini Zombies with Online support",
+      "description": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
+      "localizedDescription": "A modified version of an old mobile shooter game called Call of Mini Zombies now revived with versus support.\nWARNING: In beta so expect glitches\nStatus: ✅🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//App_Icon76x76_2x_ipad-Ck.png",
+      "tintColor": "3bf739",
+      "category": "games",
+      "version": "1.0",
+      "versionDate" : "2025-02-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Co_MZ_1fixedmaybe-Al.ipa",
+      "size": 131558557,
+      "title": "Call of Mini Zombies Online",
+      "versions" : [
+        {
+          "version": "1.0",
+          "date" : "2025-02-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Co_MZ_1fixedmaybe-Al.ipa",
+          "size": 131558557
         }
       ]
     }
