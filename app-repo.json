@@ -2200,12 +2200,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "266.0",
-      "versionDate": "2025-2-11",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny-vC.ipa",
-      "size": 88451372,
+      "version": "267.0_71769",
+      "versionDate": "2025-2-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_18-EH.ipa",
+      "size": 88522603,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "267.0_71769",
+          "date": "2025-2-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_18-EH.ipa",
+          "size": 88522603
+        }, 
         {
           "version": "266.0",
           "date": "2025-2-11",
@@ -2494,12 +2500,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
       "tintColor": "9145fd",
       "category": "entertainment",
-      "version": "23.0",
-      "versionDate" : "2025-2-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_0_Adfree_Moe_ALREADYPATCHED-Yt.ipa",
-      "size": 103252178,
+      "version": "23.1.2",
+      "versionDate" : "2025-2-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_1_2_Adfree_Moe_Pro_patched_nofix-Mh.ipa",
+      "size": 103294431,
       "title": "Twitch No Ads",
       "versions": [
+        {
+          "version": "23.1.2",
+          "date" : "2025-2-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_1_2_Adfree_Moe_Pro_patched_nofix-Mh.ipa",
+          "size": 103294431
+        },
         {
           "version": "23.0",
           "date" : "2025-2-4",
@@ -2645,13 +2657,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Spot_C_App_Icon-vE.png",
       "tintColor": "9c22f4",
       "category": "entertainment",
-      "version": "2.4.2",
-      "versionDate": "2025-2-5",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_4_2_v9_0_16-ys.ipa",
-      "size": 78676527,
+      "version": "2.4.3",
+      "versionDate": "2025-2-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_4_3_v9_0_18-Cw.ipa",
+      "size": 79668097,
       "title": "SpotC++",
       "url": "https://github.com/SpotCompiled/SpotC-Plus-Plus",
       "versions": [
+        {
+          "version": "2.4.3",
+          "date": "2025-2-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spot_C_v2_4_3_v9_0_18-Cw.ipa",
+          "size": 79668097
+        },
         {
           "version": "2.4.2",
           "date": "2025-2-5",
@@ -2711,13 +2729,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//Spotilife_C_App_Icon-xl.png",
       "tintColor": "ff0000",
       "category": "entertainment",
-      "version": "3.3.2",
-      "versionDate": "2025-2-5",
-      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_3_2_v9_0_16-We.ipa",
-      "size": 78299590,
+      "version": "3.3.3",
+      "versionDate": "2025-2-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_3_3_v9_0_18-ZB.ipa",
+      "size": 79290994,
       "title": "SpotveeC",
       "url": "https://github.com/SpotCompiled/SpotveeC",
       "versions": [
+        {
+          "version": "3.3.3",
+          "date": "2025-2-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Spotvee_C_v3_3_3_v9_0_18-ZB.ipa",
+          "size": 79290994
+        },
         {
           "version": "3.3.2",
           "date": "2025-2-5",
@@ -2902,12 +2926,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "367.0-1.2",
-      "date": "2025-2-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_Theta1_2_Moe-Sq.ipa",
-      "size": 145537398,
+      "version": "367.0-1.3",
+      "date": "2025-2-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_Theta1_3_Moe-2J.ipa",
+      "size": 145200922,
       "title": "Instagram Theta",
       "versions": [
+        {
+          "version": "367.0-1.3",
+          "date": "2025-2-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_Theta1_3_Moe-2J.ipa",
+          "size": 145200922
+        },
         {
           "version": "367.0-1.2",
           "date": "2025-2-10",
@@ -7301,13 +7331,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
       "tintColor": "6633cc",
       "category": "games",
-      "version": "1.0.2h",
-      "versionDate": "2025-2-5",
-      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-3Z.ipa",
-      "size": 329501453,
+      "version": "1.0.3",
+      "versionDate": "2025-2-14",
+      "downloadURL": "hhttps://cdn1.realmzer.xyz//Psych_Engine-qq.ipa",
+      "size": 329348219,
       "title": "Friday Night Funkin: Psych Engine",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
       "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2025-2-14",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-qq.ipa",
+          "size": 329348219
+        },
         {
           "version": "1.0.2h",
           "date": "2025-2-5",
@@ -7351,6 +7387,24 @@
           "size": 219418624
         }
       ]
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: Psych Engine 1.0.3",
+      "bundleIdentifier": "com.shadowmario.psychengine103",
+      "developerName": "ShadowMario & MobilePorting",
+      "subtitle": "Psych Engine: Open Source FNF Engine",
+      "description": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "tintColor": "6633cc",
+      "category": "games",
+      "version": "1.0.3",
+      "versionDate" : "2025-2-14",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-qq.ipa",
+      "size": 329348219,
+      "title": "Friday Night Funkin: Psych Engine 1.0.3",
+      "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile"
     },
     {
       "beta": false,
@@ -8274,13 +8328,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.30",
-    "versionDate" : "2025-1-31",
-    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_30-XH.ipa",
-    "size": 230589177,
+    "version": "33.30.2",
+    "versionDate" : "2025-2-14",
+    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_30_2-rp.ipa",
+    "size": 230594691,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.30.2",
+        "date" : "2025-1-14",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_30_2-rp.ipa",
+        "size": 230594691
+      },
       {
         "version": "33.30",
         "date" : "2025-1-31",
@@ -8374,13 +8434,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "33.30",
-    "versionDate" : "2025-1-31",
-    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_30_CA_High_FPS-C0.ipa",
-    "size": 230776790,
+    "version": "33.30.2",
+    "versionDate" : "2025-1-14",
+    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_30_2_CA_High_FPS-a9.ipa",
+    "size": 230781409,
     "title": "Fortnite CAHighFPS",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "33.30.2",
+        "date" : "2025-2-14",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_33_30_2_CA_High_FPS-a9.ipa",
+        "size": 230781409
+      },
       {
         "version": "33.30",
         "date" : "2025-1-31",
