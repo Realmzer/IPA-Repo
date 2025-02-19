@@ -2251,12 +2251,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "268.0_71920",
-      "versionDate": "2025-02-17",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny-HU.ipa",
-      "size": 88473002,
+      "version": "268.0_72023",
+      "versionDate": "2025-02-19",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-Jk.ipa",
+      "size": 88469707,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "268.0_72023",
+          "date": "2025-02-19",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-Jk.ipa",
+          "size": 88469707
+        }, 
         {
           "version": "268.0_71920",
           "date": "2025-02-17",
@@ -2557,12 +2563,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
       "tintColor": "9145fd",
       "category": "entertainment",
-      "version": "23.1.2",
-      "versionDate" : "2025-02-14",
-      "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_1_2_Adfree_Moe_Pro_patched_nofix-Mh.ipa",
-      "size": 103294431,
+      "version": "23.2",
+      "versionDate" : "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_2_Adfree_Moe_Already_Patched-El.ipa",
+      "size": 118883661,
       "title": "Twitch No Ads",
       "versions": [
+        {
+          "version": "23.2",
+          "date" : "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_2_Adfree_Moe_Already_Patched-El.ipa",
+          "size": 118883661
+        },
         {
           "version": "23.1.2",
           "date" : "2025-02-14",
@@ -2983,12 +2995,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "367.0-1.3",
-      "date": "2025-02-14",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_Theta1_3_Moe-2J.ipa",
-      "size": 145200922,
+      "version": "368.0-1.3",
+      "date": "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_Theta1_3_Moe-0Y.ipa",
+      "size": 144568072,
       "title": "Instagram Theta",
       "versions": [
+        {
+          "version": "368.0-1.3",
+          "date": "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_Theta1_3_Moe-0Y.ipa",
+          "size": 144568072
+        },
         {
           "version": "367.0-1.3",
           "date": "2025-02-14",
@@ -3038,12 +3056,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "367.0-1.3",
-      "date": "2025-02-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_AC_1_3_Moe-Iq.ipa",
-      "size": 145244105,
+      "version": "368.0-1.3",
+      "date": "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_AC_1_3_Moe-bu.ipa",
+      "size": 144611468,
       "title": "Instagram AC",
       "versions": [
+        {
+          "version": "368.0-1.3",
+          "date": "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_AC_1_3_Moe-bu.ipa",
+          "size": 144611468
+        },
         {
           "version": "367.0-1.3",
           "date": "2025-02-10",
@@ -3099,17 +3123,17 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "367.0-1.5.0",
-      "date": "2025-02-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_NYX_1_5_0_Beta_Moe-i5.ipa",
-      "size": 148087003,
+      "version": "368.0-1.5.0",
+      "date": "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_NYX_1_5_0_Beta_Moe-wL.ipa",
+      "size": 147453628,
       "title": "Instagram NYX",
       "versions": [
         {
-          "version": "367.0-1.5.0",
-          "date": "2025-02-10",
-          "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_NYX_1_5_0_Beta_Moe-i5.ipa",
-          "size": 148087003 
+          "version": "368.0-1.5.0",
+          "date": "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_NYX_1_5_0_Beta_Moe-wL.ipa",
+          "size": 147453628 
         },
         {
           "version": "366.0-1.4.8",
@@ -3148,12 +3172,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "367.0-1.1",
-      "date": "2025-02-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_BH_1_1_Moe-CG.ipa",
-      "size": 144842683,
+      "version": "368.0-1.1",
+      "date": "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_BH_1_1_Moe-KP.ipa",
+      "size": 144209933,
       "title": "Instagram BH",
       "versions": [
+        {
+          "version": "368.0-1.1",
+          "date": "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_BH_1_1_Moe-KP.ipa",
+          "size": 144209933
+        },
         {
           "version": "367.0-1.1",
           "date": "2025-02-10",
@@ -3197,12 +3227,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "367.0-1.71",
-      "date": "2025-02-10",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram367_0_0_IG_Format1_71_Moe-Cf.ipa",
-      "size": 144729514,
+      "version": "368.0-1.71",
+      "date": "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_IG_Format1_71_Moe-FM.ipa",
+      "size": 144096556,
       "title": "Instagram IGFormat",
       "versions": [
+        {
+          "version": "368.0-1.71",
+          "date": "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_IG_Format1_71_Moe-FM.ipa",
+          "size": 144096556
+        },
         {
           "version": "367.0-1.71",
           "date": "2025-02-10",
@@ -3574,12 +3610,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "38.40-2.0",
-      "versionDate": "2025-02-5",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_4_0_AC_2_0_Moe-kS.ipa",
-      "size": 367130707,
+      "version": "38.70-2.0",
+      "versionDate": "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_AC_2_0_Moe-7j.ipa",
+      "size": 368930504,
       "title": "TikTokAC",
       "versions": [
+        {
+          "version": "38.70-2.0",
+          "date": "2025-02-18",
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_AC_2_0_Moe-7j.ipa",
+          "size": 368930504
+        },
         {
           "version": "38.40-2.0",
           "date": "2025-02-5",
@@ -3653,13 +3695,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "38.2.0-1.9.3",
-      "versionDate" : "2025-01-17",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_BHTTPP_1_9_3_OT_Moe-eY.ipa",
-      "size": 361769877,
+      "version": "38.7.0-1.9.3",
+      "versionDate" : "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_BHTTPP_1_9_3_Moe-Xq.ipa",
+      "size": 368852911,
       "title": "TikTok BH++",
       "url": "https://github.com/raulsaeed/TikTokPlusPlus",
       "versions" : [
+        {
+          "version": "38.7.0-1.9.3",
+          "date" : "2025-02-18",
+          "localizedDescription": "From: SultanModsX and compiled by moeotf", 
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_BHTTPP_1_9_3_Moe-Xq.ipa",
+          "size": 368852911
+        },
         {
           "version": "38.2.0-1.9.3",
           "date" : "2025-01-17",
@@ -3686,12 +3735,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280_1-jZ.webp",
       "tintColor": "08f3da",
       "category": "social",
-      "version": "38.2.0-patched",
-      "versionDate" : "2025-01-20",
-      "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_Stock_W_Ith_U_Sto_Canada_Fix-86.ipa",
-      "size": 362717362,
+      "version": "38.7.0-patched",
+      "versionDate" : "2025-02-18",
+      "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_Stock_Tik_Tok_Moe-7W.ipa",
+      "size": 368121251,
       "title": "TikTok",
       "versions" : [
+        {
+          "version": "38.7.0-patched",
+          "date" : "2025-02-18",
+          "localizedDescription": "This version is patched for US Restrictions\nFrom: Sultan Mods", 
+          "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_Stock_Tik_Tok_Moe-7W.ipa",
+          "size": 368121251 
+        },
         {
           "version": "38.2.0-patched",
           "date" : "2025-01-20",
@@ -8913,12 +8969,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//icon_8-Ls.png" ,
     "tintColor": "ff7d0a",
     "category": "entertainment",
-    "version": "2.0.1-8.0.9",
-    "size": 67393500,
-    "versionDate": "2025-01-29",
-    "downloadURL": "https://cdn1.realmzer.xyz//infp_2_0_1_8_0_9-ld.ipa", 
+    "version": "2.0.1-8.1",
+    "size": 67985725,
+    "versionDate": "2025-02-18",
+    "downloadURL": "https://cdn1.realmzer.xyz//Infuse8_1_Plus2_0_1-1j.ipa", 
     "title": "Infuse Plus",
     "versions" : [
+      {
+        "version": "2.0.1-8.1",
+        "date" : "2025-02-18",
+        "downloadURL": "https://cdn1.realmzer.xyz//Infuse8_1_Plus2_0_1-1j.ipa", 
+        "size": 67985725
+      },
       {
         "version": "2.0.1-8.0.9",
         "date" : "2025-01-29",
