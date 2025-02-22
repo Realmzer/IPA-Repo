@@ -8437,12 +8437,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Icon60x60_3x-1u.png",
     "tintColor": "000000",
     "category": "utilities",
-    "version": "1.3.2-766",
-    "versionDate" : "2025-02-15",
-    "downloadURL": "https://cdn1.realmzer.xyz//i_SH_1-Pm.ipa",
-    "size": 4565245,
+    "version": "1.3.2-767",
+    "versionDate" : "2025-02-22",
+    "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-dm.ipa",
+    "size": 4565242,
     "title": "iSH",
     "versions": [
+      {
+        "version": "1.3.2-767",
+        "date" : "2025-02-22",
+        "downloadURL": "https://cdn1.realmzer.xyz//i_SH_2-dm.ipa",
+        "size": 4565242
+      },
       {
         "version": "1.3.2-766",
         "date" : "2025-02-15",
