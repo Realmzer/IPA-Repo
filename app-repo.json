@@ -5410,12 +5410,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//6669b3b45e7d7e36f189dc6d-Zr.png",
       "tintColor": "223155",
       "category": "utilities",
-      "version": "3.1",
-      "versionDate" : "2025-02-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_3_1_601-uX.tipa",
-      "size": 15008626,
+      "version": "3.2",
+      "versionDate" : "2025-02-22",
+      "downloadURL": "https://cdn1.realmzer.xyz//TR_App_3_2_608-e1.tipa",
+      "size": 15033517,
       "title": "TrollRecorder",
       "versions": [
+        {
+          "version": "3.2",
+          "date" : "2025-02-22",
+          "downloadURL": "https://cdn1.realmzer.xyz//TR_App_3_2_608-e1.tipa",
+          "size": 15033517
+        },
         {
           "version": "3.1",
           "date" : "2025-02-21",
