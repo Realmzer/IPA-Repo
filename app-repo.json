@@ -3385,13 +3385,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.07.06-5.1-feb19",
-      "versionDate" : "2025-02-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Basic_Feb19th_Moe-ir.ipa",
-      "size": 111870645,
+      "version": "20.07.06-5.1-feb23",
+      "versionDate" : "2025-02-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Basic_Feb23rd_Moe-kQ.ipa",
+      "size": 112206062,
       "title": "YouTube Plus",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.07.06-5.1-feb23",
+          "date" : "2025-02-23",
+          "localizedDescription": "From: Sultan Mods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Basic_Feb23rd_Moe-kQ.ipa",
+          "size": 112206062
+        },
         {
           "version": "20.07.06-5.1-feb19",
           "date" : "2025-02-21",
@@ -3481,13 +3488,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.07.06-5.1-feb19",
-      "versionDate" : "2025-02-21",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Full_Feb19th_Moe-ON.ipa",
-      "size": 112000544,
+      "version": "20.07.06-5.1-feb23",
+      "versionDate" : "2025-02-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Full_Feb23rd_Moe-ZD.ipa",
+      "size": 112336219,
       "title": "YouTube Plus + Tweaks",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.07.06-5.1-feb23",
+          "date" : "2025-02-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Full_Feb23rd_Moe-ZD.ipa",
+          "localizedDescription": "From: Sultan Mods",
+          "size": 112336219
+        },
         {
           "version": "20.07.06-5.1-feb19",
           "date" : "2025-02-21",
@@ -4726,12 +4740,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
       "tintColor": "008afd",
       "category": "utilities",
-      "version": "2.11-25",
-      "versionDate" : "2025-01-17",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_11_25-sJ.tipa",
-      "size": 3487386,
+      "version": "2.12-27",
+      "versionDate" : "2025-02-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_12_27-lM.tipa",
+      "size": 3541410,
       "title": "TrollFools",
       "versions": [
+        {
+          "version": "2.12-27",
+          "date" : "2025-02-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_2_12_27-lM.tipa",
+          "size": 3541410 
+        },
         {
           "version": "2.11-25",
           "date" : "2025-01-17",
@@ -4781,12 +4801,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
       "tintColor": "008afd",
       "category": "utilities",
-      "version": "2.11-25",
-      "versionDate" : "2025-01-17",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_11_25-uq.tipa",
-      "size": 5699241,
+      "version": "2.12-27",
+      "versionDate" : "2025-02-23",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_12_27-vj.tipa",
+      "size": 5783322,
       "title": "TrollFools iOS 14",
       "versions": [
+        {
+          "version": "2.12-27",
+          "date" : "2025-02-23",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools14_2_12_27-vj.tipa",
+          "size": 5783322 
+        },
         {
           "version": "2.11-25",
           "date" : "2025-01-17",
