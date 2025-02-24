@@ -2247,7 +2247,7 @@
       ]
     },
     {
-      "beta": true,
+      "beta": false,
       "name": "Bunny Discord",
       "bundleIdentifier": "com.hammerandchisel.discord2",
       "developerName": "Bunny Development Team",
@@ -2257,12 +2257,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "268.0_72023",
-      "versionDate": "2025-02-19",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-Jk.ipa",
-      "size": 88469707,
+      "version": "268.0",
+      "versionDate": "2025-02-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_19-qi.ipa",
+      "size": 88478292,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "268.0",
+          "date": "2025-02-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_19-qi.ipa",
+          "size": 88478292
+        }, 
         {
           "version": "268.0_72023",
           "date": "2025-02-19",
@@ -8345,12 +8351,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "26.8.2",
-    "versionDate" : "2025-02-6",
-    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_8_2_Moe_Pro-vu.ipa",
-    "size": 101615295,
+    "version": "26.9.1",
+    "versionDate" : "2025-02-24",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_9_1_Moe_Pro-hW.ipa",
+    "size": 100046678,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "26.9.1",
+        "date" : "2025-02-24",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_9_1_Moe_Pro-hW.ipa",
+        "size": 100046678
+      },
       {
         "version": "26.8.2",
         "date" : "2025-02-6",
