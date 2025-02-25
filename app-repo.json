@@ -3007,12 +3007,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "368.0-1.3",
-      "date": "2025-02-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_Theta1_3_Moe-0Y.ipa",
-      "size": 144568072,
+      "version": "369.0-1.3",
+      "date": "2025-02-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_Theta1_3_Moe-Ix.ipa",
+      "size": 144940651,
       "title": "Instagram Theta",
       "versions": [
+        {
+          "version": "369.0-1.3",
+          "date": "2025-02-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_Theta1_3_Moe-Ix.ipa",
+          "size": 144940651
+        },
         {
           "version": "368.0-1.3",
           "date": "2025-02-18",
@@ -3068,12 +3074,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "368.0-1.3",
-      "date": "2025-02-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_AC_1_3_Moe-bu.ipa",
-      "size": 144611468,
+      "version": "369.0-1.3",
+      "date": "2025-02-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_AC_1_3_Moe-4b.ipa",
+      "size": 144983847,
       "title": "Instagram AC",
       "versions": [
+        {
+          "version": "369.0-1.3",
+          "date": "2025-02-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_AC_1_3_Moe-4b.ipa",
+          "size": 144983847
+        },
         {
           "version": "368.0-1.3",
           "date": "2025-02-18",
@@ -3135,12 +3147,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "368.0-1.5.0",
-      "date": "2025-02-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_NYX_1_5_0_Beta_Moe-wL.ipa",
-      "size": 147453628,
+      "version": "369.0-1.5.0",
+      "date": "2025-02-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_NYX_1_5_0_Beta_Moe-oc.ipa",
+      "size": 147826686,
       "title": "Instagram NYX",
       "versions": [
+        {
+          "version": "369.0-1.5.0",
+          "date": "2025-02-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_NYX_1_5_0_Beta_Moe-oc.ipa",
+          "size": 147826686 
+        },
         {
           "version": "368.0-1.5.0",
           "date": "2025-02-18",
@@ -3184,12 +3202,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "368.0-1.1",
-      "date": "2025-02-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_BH_1_1_Moe-KP.ipa",
-      "size": 144209933,
+      "version": "369.0-1.1",
+      "date": "2025-02-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_BH_1_1_Moe-Km.ipa",
+      "size": 144582265,
       "title": "Instagram BH",
       "versions": [
+        {
+          "version": "369.0-1.1",
+          "date": "2025-02-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_BH_1_1_Moe-Km.ipa",
+          "size": 144582265
+        },
         {
           "version": "368.0-1.1",
           "date": "2025-02-18",
@@ -3239,12 +3263,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "368.0-1.71",
-      "date": "2025-02-18",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram368_0_0_IG_Format1_71_Moe-FM.ipa",
-      "size": 144096556,
+      "version": "369.0-1.71",
+      "date": "2025-02-24",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_IG_Format1_71_Moe-d1.ipa",
+      "size": 144469212,
       "title": "Instagram IGFormat",
       "versions": [
+        {
+          "version": "369.0-1.71",
+          "date": "2025-02-24",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_IG_Format1_71_Moe-d1.ipa",
+          "size": 144469212
+        },
         {
           "version": "368.0-1.71",
           "date": "2025-02-18",
@@ -8561,14 +8591,21 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "34.00",
-    "versionDate" : "2025-02-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00-O4.ipa",
-    "size": 231763201,
+    "version": "34.00.1",
+    "versionDate" : "2025-02-24",
+    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00_1-Nu.ipa",
+    "size": 213243621,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
       {
+        "version": "34.00.1",
+        "date" : "2025-02-24",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00_1-Nu.ipa",
+        "size": 213243621
+      },
+      {
+
         "version": "34.00",
         "date" : "2025-02-21",
         "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00-O4.ipa",
