@@ -1769,13 +1769,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "2.0a4",
-      "versionDate": "2025-02-7",
-      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_3-1s.deb",
-      "size": 4779072,
+      "version": "2.0a5",
+      "versionDate": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_4-je.deb",
+      "size": 3084160,
       "title": "Frida Code Manager (Root-Hide)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a5",
+          "date": "2025-02-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_4-je.deb",
+          "size": 3084160
+        },
         {
           "version": "2.0a4",
           "date" : "2025-02-7",
@@ -1802,6 +1808,24 @@
           "size": 3166208
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Hide) v2.0 alpha 5",
+      "bundleIdentifier": "com.sparklechan.swiftyrh20a5",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a5",
+      "versionDate": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_roothide_4-je.deb",
+      "size": 3084160,
+      "title": "Frida Code Manager (Root-Hide) v2.0 alpha 5",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": true,
@@ -1904,13 +1928,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
       "tintColor": "ab7eaa",
       "category": "utilities",
-      "version": "2.0a4",
-      "versionDate": "2025-02-7",
-      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_2-Oy.deb",
-      "size": 4779276,
+      "version": "2.0a5",
+      "versionDate": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_3-27.deb",
+      "size": 3084472,
       "title": "Frida Code Manager (Root-Less)",
       "url": "https://github.com/fridakitten/FridaCodeManager/",
       "versions" : [
+        {
+          "version": "2.0a5",
+          "date" : "2025-02-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_3-27.deb",
+          "size": 3084472 
+        },
         {
           "version": "2.0a4",
           "date" : "2025-02-7",
@@ -1937,6 +1967,24 @@
           "size": 3166104
         }
       ]
+    },
+    {
+      "beta": true,
+      "name" : "Frida Code Manager (Root-Less) v2.0 alpha 5",
+      "bundleIdentifier": "com.sparklechan.swiftyrl20a5",
+      "developerName": "fridakitten",
+      "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+      "description": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//FCM-04.png",
+      "tintColor": "ab7eaa",
+      "category": "utilities",
+      "version": "2.0a5",
+      "versionDate": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Frida_Code_Manager_rootless_3-27.deb",
+      "size": 3084472,
+      "title": "Frida Code Manager (Root-Less) v2.0 alpha 5",
+      "url": "https://github.com/fridakitten/FridaCodeManager/"
     },
     {
       "beta": true,
@@ -2257,12 +2305,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "268.0",
-      "versionDate": "2025-02-24",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_19-qi.ipa",
-      "size": 88478292,
+      "version": "269.0_72451",
+      "versionDate": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_20-1b.ipa",
+      "size": 87779686,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "269.0_72451",
+          "date": "2025-02-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_20-1b.ipa",
+          "size": 87779686
+        }, 
         {
           "version": "268.0",
           "date": "2025-02-24",
@@ -2940,17 +2994,23 @@
       "bundleIdentifier": "com.burbn.instagram", 
       "developerName": "Meta", 
       "subtitle": "Instagram with Regram Cracked!",
-      "description": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
-      "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🌟🔥",
+      "description": "Injected with ReGram Cracked\nStatus: ✅🔥",
+      "localizedDescription": "Injected with ReGram Cracked\nStatus: ✅🔥",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "366.0-B21",
-      "date": "2025-02-4",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram366_0_Regram_B21_Moe-nF.ipa",
-      "size": 147903130,
+      "version": "369.0-B22",
+      "date": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_Regram_B22_Moe-BF.ipa",
+      "size": 148337260,
       "title": "Instagram Regram",
       "versions": [
+        {
+          "version": "369.0-B22",
+          "date": "2025-02-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram369_0_0_Regram_B22_Moe-BF.ipa",
+          "size": 148337260
+        },
         {
           "version": "366.0-B21",
           "date": "2025-02-4",
@@ -3332,12 +3392,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
       "tintColor": "ff2120",
       "category": "entertainment",
-      "version": "8.0.6",
-      "versionDate": "2025-02-11",
-      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_06_Jacks_Apps-Mh.ipa",
-      "size": 81583662,
+      "version": "8.08",
+      "versionDate": "2025-02-25",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_08_Jacks_Apps-q0.ipa",
+      "size": 82135642,
       "title": "YTMusicUltimate+",
       "versions": [
+        {
+          "version": "8.08",
+          "date": "2025-02-25",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_08_Jacks_Apps-q0.ipa",
+          "size": 82135642
+        },
         {
           "version": "8.0.6",
           "date": "2025-02-11",
@@ -8079,13 +8145,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version": "2025.118.3",
-    "versionDate": "2025-01-25",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-P4.ipa",
-    "size": 196974093,
+    "version": "2025.225.0",
+    "versionDate": "2025-02-25",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_2-Ig.ipa",
+    "size": 197380082,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions": [
+      {
+        "version": "2025.225.0",
+        "date": "2025-02-25",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_2-Ig.ipa",
+        "size": 197380082
+      },
       {
         "version": "2025.118.3",
         "date": "2025-01-25",
@@ -8710,13 +8782,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "34.00",
-    "versionDate" : "2025-02-21",
-    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00_CA_High_FPS-Zf.ipa",
-    "size": 231950006,
+    "version": "34.00.1",
+    "versionDate" : "2025-02-25",
+    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00_1_CA_High_FPS-u7.ipa",
+    "size": 225609364,
     "title": "Fortnite CAHighFPS",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "34.00.1",
+        "date" : "2025-02-25",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00_1_CA_High_FPS-u7.ipa",
+        "size": 225609364
+      },
       {
         "version": "34.00",
         "date" : "2025-02-21",
