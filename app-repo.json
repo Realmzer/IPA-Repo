@@ -2620,6 +2620,31 @@
     },
     {
       "beta": false,
+      "name" : "Kodi",
+      "bundleIdentifier": "org.xbmc.kodi",
+      "developerName" : "The Kodi Foundation",
+      "subtitle": "Kodi is a media center and entertainment hub that brings all your digital media together into a beautiful and user friendly package",
+      "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.\nStatus: ✅",
+      "localizedDescription": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//images-sT.png",
+      "tintColor": "14b1e5",
+      "category": "entertainment",
+      "version": "21.2",
+      "date" : "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Kodi_v21_2_Omega-Ot.ipa",
+      "size": 146456806,
+      "title": "Kodi",
+      "versions" : [
+        {
+          "version": "21.2",
+          "date" : "2025-02-26",
+          "downloadURL": "https://cdn1.realmzer.xyz//Kodi_v21_2_Omega-Ot.ipa",
+          "size": 146456806
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name" : "Twitch No Ads",
       "bundleIdentifier": "tv.twitch",
       "developerName" : "moeotf & level3tjg",
@@ -7677,7 +7702,7 @@
       "category": "games",
       "version": "1.0.3",
       "date": "2025-02-14",
-      "downloadURL": "hhttps://cdn1.realmzer.xyz//Psych_Engine-qq.ipa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Engine-qq.ipa",
       "size": 329348219,
       "title": "Friday Night Funkin: Psych Engine",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile",
@@ -7875,6 +7900,94 @@
       "size": 219418624,
       "title": "Friday Night Funkin: Psych Engine 0.6.3",
       "url": "https://github.com/MobilePorting/FNF-PsychEngine-Mobile"
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: Psych Engine Online",
+      "bundleIdentifier": "com.snirozu.psychonline",
+      "developerName": "Snirozu & MobilePorting",
+      "subtitle": "FNF Psych Engine with Online Multiplayer",
+      "description": "Ever wanted to play Friday Night Funkin’ with your friends (or even strangers), without messing with port forwarding stuff? Well, well, well, this mod should be exactly what you want!\nStatus: ✅",
+      "localizedDescription": "Ever wanted to play Friday Night Funkin’ with your friends (or even strangers), without messing with port forwarding stuff? Well, well, well, this mod should be exactly what you want!\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "tintColor": "6633cc",
+      "category": "games",
+      "version": "0.10.2",
+      "date": "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Online-aO.ipa",
+      "size": 491303517,
+      "title": "Friday Night Funkin: Psych Engine Online",
+      "url": "https://github.com/MobilePorting/Funkin-Psych-Online-Mobile",
+      "versions": [
+        {
+          "version": "0.10.2",
+          "date": "2025-02-26",
+          "downloadURL": "https://cdn1.realmzer.xyz//Psych_Online-aO.ipa",
+          "size": 491303517
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: Psych Engine Online 0.10.2",
+      "bundleIdentifier": "com.snirozu.psychonline0102",
+      "developerName": "Snirozu & MobilePorting",
+      "subtitle": "FNF Psych Engine with Online Multiplayer",
+      "description": "Ever wanted to play Friday Night Funkin’ with your friends (or even strangers), without messing with port forwarding stuff? Well, well, well, this mod should be exactly what you want!\nStatus: ✅",
+      "localizedDescription": "Ever wanted to play Friday Night Funkin’ with your friends (or even strangers), without messing with port forwarding stuff? Well, well, well, this mod should be exactly what you want!\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//funkin-AW.png",
+      "tintColor": "6633cc",
+      "category": "games",
+      "version": "0.10.2",
+      "date": "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Psych_Online-aO.ipa",
+      "size": 491303517,
+      "title": "Friday Night Funkin: Psych Engine Online 0.10.2",
+      "url": "https://github.com/MobilePorting/Funkin-Psych-Online-Mobile"
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: FPS Plus",
+      "bundleIdentifier": "com.Rozebud.FPSPlus",
+      "developerName": "Rozebud & MobilePorting",
+      "subtitle": "FPS Plus is an engine mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.",
+      "description": "Friday Night Funkin' FPS Plus is an engine mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.\nFPS Plus was originally designed to increase the framerate of Friday Night Funkin' and is still currently (as far as I know) the only engine that allows for an unlocked framerate. It also features a plethora of enhancements and quality of life features. A bunch of systems are also changed as well that alter the workflow of coding stuff into the engine.\nStatus: ✅",
+      "localizedDescription": "Friday Night Funkin' FPS Plus is an engine mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.\nFPS Plus was originally designed to increase the framerate of Friday Night Funkin' and is still currently (as far as I know) the only engine that allows for an unlocked framerate. It also features a plethora of enhancements and quality of life features. A bunch of systems are also changed as well that alter the workflow of coding stuff into the engine.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_OG-Pu.png",
+      "tintColor": "f95ba4",
+      "category": "games",
+      "version": "6.2.1",
+      "date": "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Funkin_FPS_Plus-PA.ipa",
+      "size": 629649393,
+      "title": "Friday Night Funkin: FPS Plus",
+      "url": "https://github.com/MobilePorting/FPS-Plus-Mobile",
+      "versions": [
+        {
+          "version": "6.2.1",
+          "date": "2025-02-26",
+          "downloadURL": "https://cdn1.realmzer.xyz//Funkin_FPS_Plus-PA.ipa",
+          "size": 629649393
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Friday Night Funkin: FPS Plus 6.2.1",
+      "bundleIdentifier": "com.Rozebud.FPSPlus621",
+      "developerName": "Rozebud & MobilePorting",
+      "subtitle": "FPS Plus is an engine mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.",
+      "description": "Friday Night Funkin' FPS Plus is an engine mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.\nFPS Plus was originally designed to increase the framerate of Friday Night Funkin' and is still currently (as far as I know) the only engine that allows for an unlocked framerate. It also features a plethora of enhancements and quality of life features. A bunch of systems are also changed as well that alter the workflow of coding stuff into the engine.\nStatus: ✅",
+      "localizedDescription": "Friday Night Funkin' FPS Plus is an engine mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.\nFPS Plus was originally designed to increase the framerate of Friday Night Funkin' and is still currently (as far as I know) the only engine that allows for an unlocked framerate. It also features a plethora of enhancements and quality of life features. A bunch of systems are also changed as well that alter the workflow of coding stuff into the engine.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//icon_OG-Pu.png",
+      "tintColor": "f95ba4",
+      "category": "games",
+      "version": "6.2.1",
+      "date": "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Funkin_FPS_Plus-PA.ipa",
+      "size": 629649393,
+      "title": "Friday Night Funkin: FPS Plus 6.2.1",
+      "url": "https://github.com/MobilePorting/FPS-Plus-Mobile"
     },
     {
       "beta": false,
