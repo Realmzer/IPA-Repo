@@ -9824,10 +9824,10 @@
       "localizedDescription": "If you could know exactly when you're going to die, would you want to know? \nStatus: ✅🌟",
       "iconURL": "https://cdn1.realmzer.xyz//100x100bb-jN.jpg",
       "tintColor": "000000",
-      "category": "utilities",
+      "category": "entertainment",
       "version": "1.6",
       "date" : "2025-02-26",
-      "downloadURL": "https://cdn1.realmzer.xyz//Countdown-no.ipaa",
+      "downloadURL": "https://cdn1.realmzer.xyz//Countdown-no.ipa",
       "size": 715711,
       "title": "Countdown",
       "versions" : [
@@ -9836,6 +9836,31 @@
           "date" : "2025-02-26",
           "downloadURL": "https://cdn1.realmzer.xyz//Countdown-no.ipa",
           "size": 715711
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name" : "StikNES",
+      "bundleIdentifier": "com.stik.StikNES",
+      "developerName" : "StikEMU",
+      "subtitle": "StikNES is a SwiftUI-based NES emulator designed for iOS devices",
+      "description": "StikNES delivers the classic Nintendo Entertainment System experience through a modern, intuitive SwiftUI interface. Built with performance and accuracy in mind, it leverages the power of the nes-rust library for authentic emulation while providing a seamless user experience on iOS devices.\nStatus: ✅",
+      "localizedDescription": "StikNES delivers the classic Nintendo Entertainment System experience through a modern, intuitive SwiftUI interface. Built with performance and accuracy in mind, it leverages the power of the nes-rust library for authentic emulation while providing a seamless user experience on iOS devices.\nStatus: ✅",
+      "iconURL": "https://cdn1.realmzer.xyz//output_onlinepngtools_12_copy-ln.png",
+      "tintColor": "49bfda",
+      "category": "games",
+      "version": "2.0.2-5.2",
+      "date" : "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Stik_NES-zl.ipa",
+      "size": 7141231,
+      "title": "StikNES",
+      "versions" : [
+        {
+          "version": "2.0.2-5.2",
+          "date" : "2025-02-26",
+          "downloadURL": "https://cdn1.realmzer.xyz//Stik_NES-zl.ipa",
+          "size": 7141231
         }
       ]
     }
