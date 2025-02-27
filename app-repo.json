@@ -7577,12 +7577,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//roblox_icon-vv.png",
       "tintColor": "2f3238",
       "category": "games",
-      "version": "659.473-02",
-      "size": 146488054,
-      "date": "2025-02-15",
-      "downloadURL": "https://cdn1.realmzer.xyz//Delta_659_473_02-Im.ipa",
+      "version": "660.649-01",
+      "size": 160478840,
+      "date": "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Delta_660_649_01-qx.ipa",
       "title": "Delta Executor (Roblox)",
       "versions" : [
+        {
+          "version": "660.649-01",
+          "date" : "2025-02-26",
+          "downloadURL": "https://cdn1.realmzer.xyz//Delta_660_649_01-qx.ipa",
+          "size": 160478840
+        },
         {
           "version": "659.473-02",
           "date" : "2025-02-15",
@@ -7663,12 +7669,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//download_3-Dl.jpg",
       "tintColor": "dc0100",
       "category": "games",
-      "version": "2.655.1095",
-      "size": 132645293,
-      "date": "2025-01-22",
-      "downloadURL": "https://cdn1.realmzer.xyz//Codex2_655_1095-ac.ipa",
+      "version": "2.660.649",
+      "size": 142164047,
+      "date": "2025-02-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//Codex_2_660_649-Ie.ipa",
       "title": "Codex (Roblox)",
       "versions" : [
+        {
+          "version": "2.660.649",
+          "size": 142164047,
+          "date": "2025-02-26",
+          "downloadURL": "https://cdn1.realmzer.xyz//Codex_2_660_649-Ie.ipa"
+        },
         {
           "version": "2.655.1095",
           "date" : "2025-01-22",
