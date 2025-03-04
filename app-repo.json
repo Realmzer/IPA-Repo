@@ -2649,8 +2649,8 @@
       "bundleIdentifier": "tv.twitch",
       "developerName" : "moeotf & level3tjg",
       "subtitle": "Twitch with no ads included",
-      "description": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
-      "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom @SultanModsIPAs",
+      "description": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom ethMods",
+      "localizedDescription": "This is a tweak for Twitch that removes all ad's for a more enjoyable expreience.\nStatus: ✅🔥\nFrom ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
       "tintColor": "9145fd",
       "category": "entertainment",
@@ -2727,45 +2727,52 @@
       "iconURL": "https://cdn1.realmzer.xyz//spotify-2f.png",
       "tintColor": "1ed760",
       "category": "entertainment",
-      "version": "9.0.20 (Patched PT2)",
-      "versionDate": "2025-02-26",
-      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_20_patched-m8.ipa",
-      "size": 83566487,
+      "version": "9.0.22/Swift 5.8.8 (Patched)",
+      "versionDate": "2025-03-04",
+      "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_8_9_0_22_patched-eC.ipa",
+      "size": 83767790,
       "title": "EeveeSpotify",
       "url": "https://github.com/whoeevee/EeveeSpotify",
       "versions": [
         {
+          "version": "9.0.22/Swift 5.8.8 (Patched)",
+          "date": "2025-03-04",
+          "localizedDescription": "From: ethMods",
+          "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_5_8_8_9_0_22_patched-eC.ipa",
+          "size": 83767790
+        },
+        {
           "version": "9.0.20 (Patched PT2)",
           "date": "2025-02-26",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_20_patched-m8.ipa",
           "size": 83566487 
         },
         {
           "version": "9.0.16/Swift 5.8.7 (Patched PT2)",
           "date": "2025-02-7",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16_patched-Yo.ipa",
           "size": 83017872 
         },
         {
           "version": "9.0.16/Swift 5.8.7 (Patched)",
           "date": "2025-02-6",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16_patched-Yo.ipa",
           "size": 83017872 
         },
         {
           "version": "9.0.16/Swift 5.8.7",
           "date": "2025-02-5",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_16-eg.ipa",
           "size": 82753611 
         },
         {
           "version": "9.0.14/Swift 5.8.6",
           "date": "2025-01-29",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_9_0_14_patched-bQ.ipa",
           "size": 82538778 
         },
@@ -2785,14 +2792,14 @@
         {
           "version": "8.9.94/Swift 5.8.2",
           "date": "2024-12-06",
-          "localizedDescription": "*Updated German localization \nBy @wlxxd & @SultanModsIPAs",
+          "localizedDescription": "*Updated German localization \nBy @wlxxd & ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Spotify_v8_9_96_Eevee_v5_8_2-0U.ipa",
           "size": 83750912
         },
         {
           "version": "8.9.94/Swift 5.8.1",
           "date": "2024-11-28",
-          "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy @SultanModsIPAs",
+          "localizedDescription": "*Widgets support by SpotilifeIPAs\nOpenSpotifySafariExtension included\nBy ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Eevee_Spotify_8_9_94_Widget_Working-tp.ipa",
           "size": 80715776
         },
@@ -2994,7 +3001,7 @@
         {
           "version": "1.15.11_1.2.1",
           "date" : "2024-12-20",
-          "localizedDescription": "Apollo Custom API 1.2.1\nFrom: @SultanModsIPAs",
+          "localizedDescription": "Apollo Custom API 1.2.1\nFrom: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//com_christianselig_Apollo_1_15_11_78653_patched_nofix-Eb.ipa",
           "size": 108564480
         },
@@ -3093,8 +3100,8 @@
       "bundleIdentifier": "com.burbn.instagram1", 
       "developerName": "Meta", 
       "subtitle": "Instagram with Tweaks",
-      "description": "This is a tweaked version of Instagram with multiple tweaks.\nAlready cracked just click restore purchases.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
-      "localizedDescription": "This is a tweaked version of Instagram with multiple tweaks.\nAlready cracked just click restore purchases.\nStatus: ✅🌟🔥\nFrom: @SultanModsX",
+      "description": "This is a tweaked version of Instagram with multiple tweaks.\nAlready cracked just click restore purchases.\nStatus: ✅🌟🔥\nFrom: ethMods",
+      "localizedDescription": "This is a tweaked version of Instagram with multiple tweaks.\nAlready cracked just click restore purchases.\nStatus: ✅🌟🔥\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -3124,8 +3131,8 @@
       "bundleIdentifier": "com.burbn.instagram2", 
       "developerName": "Meta & objec c", 
       "subtitle": "Up to date Instagram Tweak",
-      "description": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅\nFrom: @SultanModsX",
-      "localizedDescription": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅\nFrom: @SultanModsX",
+      "description": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅\nFrom: ethMods",
+      "localizedDescription": "This is an Instagram tweak that gets updated to stay stable.\nStatus: ✅\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -3197,8 +3204,8 @@
       "bundleIdentifier": "com.burbn.instagram3", 
       "developerName": "Meta & aJBbo", 
       "subtitle": "Another free Instagram tweak",
-      "description": "This another free Instagram tweak.\nStatus: ✅\nFrom: @SultanModsX",
-      "localizedDescription": "This another free Instagram tweak.\nStatus: ✅\nFrom: @SultanModsX",
+      "description": "This another free Instagram tweak.\nStatus: ✅\nFrom: ethMods",
+      "localizedDescription": "This another free Instagram tweak.\nStatus: ✅\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -3276,8 +3283,8 @@
       "bundleIdentifier": "com.burbn.instagram4", 
       "developerName": "Meta", 
       "subtitle": "Paid Instagram Tweak",
-      "description": "Supercharge your experience on Instagram!\nStatus: ✅\nFrom: @SultanModsX",
-      "localizedDescription": "Supercharge your experience on Instagram!\nStatus: ✅\nFrom: @SultanModsX",
+      "description": "Supercharge your experience on Instagram!\nStatus: ✅\nFrom: ethMods",
+      "localizedDescription": "Supercharge your experience on Instagram!\nStatus: ✅\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -3337,8 +3344,8 @@
       "bundleIdentifier": "com.burbn.instagram5", 
       "developerName": "Meta", 
       "subtitle": "Instagram Tweak",
-      "description": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
-      "localizedDescription": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
+      "description": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: ethMods",
+      "localizedDescription": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -3404,8 +3411,8 @@
       "bundleIdentifier": "com.burbn.instagram6", 
       "developerName": "Meta & RRRBG", 
       "subtitle": "Instagram Tweak",
-      "description": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
-      "localizedDescription": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: @SultanModsX",
+      "description": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: ethMods",
+      "localizedDescription": " A feature-rich tweak for Instagram for iOS. Supporting sideloading and non-jailbroken devices.\nStatus: ✅\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
@@ -3479,17 +3486,23 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "dvntms & @Jacks_Apps",
       "subtitle": "YTMusicUltimate+ - Tweaked YTMusicUltimate",
-      "description": "A tweaked version of YouTube Music Ultimate\nStatus: ✅🔥\nFrom: @SultanModsIPAs", 
-      "localizedDescription": "A tweaked version of YouTube Music Ultimate\nStatus: ✅🔥\nFrom: @SultanModsIPAs",
+      "description": "A tweaked version of YouTube Music Ultimate\nStatus: ✅🔥\nFrom: ethMods", 
+      "localizedDescription": "A tweaked version of YouTube Music Ultimate\nStatus: ✅🔥\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4249-bT.png",
       "tintColor": "ff2120",
       "category": "entertainment",
-      "version": "8.08",
-      "versionDate": "2025-02-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_08_Jacks_Apps-q0.ipa",
-      "size": 82135642,
+      "version": "8.09",
+      "versionDate": "2025-03-04",
+      "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_09_Jacks_Apps-LW.ipa",
+      "size": 81870853,
       "title": "YTMusicUltimate+",
       "versions": [
+        {
+          "version": "8.09",
+          "date": "2025-03-04",
+          "downloadURL": "https://cdn1.realmzer.xyz//YT_Music_Ultimate_8_09_Jacks_Apps-LW.ipa",
+          "size": 81870853
+        },
         {
           "version": "8.08",
           "date": "2025-02-25",
@@ -3591,89 +3604,89 @@
           "date" : "2025-03-03",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_09_3_YT_Lite5_1_Basic_March2nd_Moe-I6.ipa",
           "size": 113268598,
-          "localizedDescription": "From: Sultan Mods"
+          "localizedDescription": "From: ethMods"
         },
         {
           "version": "20.08.3-5.1-feb26",
           "date" : "2025-02-26",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_08_3_YT_Lite5_1_Basic_Feb26th_Moe-fI.ipa",
           "size": 112300995
         },
         {
           "version": "20.07.06-5.1-feb23",
           "date" : "2025-02-23",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Basic_Feb23rd_Moe-kQ.ipa",
           "size": 112206062
         },
         {
           "version": "20.07.06-5.1-feb19",
           "date" : "2025-02-21",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Basic_Feb19th_Moe-ir.ipa",
           "size": 111870645
         },
         {
           "version": "20.07-5.1-feb17",
           "date" : "2025-02-17",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Basic_Feb17th_Moe-9S.ipa",
           "size": 112299254
         },
         {
           "version": "20.06-5.1-feb12",
           "date" : "2025-02-12",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_06_03_YT_Lite5_1_Basic_Feb12th_Moe-8S.ipa",
           "size": 112220072
         },
         {
           "version": "20.05.4-5.1-feb10",
           "date" : "2025-02-10",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb10th_Moe-6d.ipa",
           "size": 112883363
         },
         {
           "version": "20.05.4-5.1-feb9",
           "date" : "2025-02-9",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb9th_Moe-Lr.ipa",
           "size": 113015320
         },
         {
           "version": "20.05.4-5.1-feb8",
           "date" : "2025-02-8",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb8th_Moe-2z.ipa",
           "size": 112883680
         },
         {
           "version": "20.05.4-5.1-feb7",
           "date" : "2025-02-7",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb7th_Moe-jo.ipa",
           "size": 112883684
         },
         {
           "version": "20.05.4-5.1-feb3",
           "date" : "2025-02-2",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb3rd_Moe-l4.ipa",
           "size": 112883681
         },
         {
           "version": "20.04.1-5.1-feb2",
           "date" : "2025-02-2",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_04_1_YT_Lite5_1_Basic_Feb2nd_Moe-Zo.ipa",
           "size": 112664206
         },
         {
           "version": "20.04.1-5.1",
           "date" : "2025-01-31",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_04_1_YT_Lite5_1_Basic_Jan31st_Moe-dg.ipa",
           "size": 112664210
         },
@@ -3707,91 +3720,91 @@
           "version": "20.09.3-5.1-mar2",
           "date" : "2025-03-03",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_09_3_YT_Lite5_1_Full_March2nd_Moe-lC.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 113399273
         },
         {
           "version": "20.08.3-5.1-feb26",
           "date" : "2025-02-26",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_08_3_YT_Lite5_1_Full26th_Moe-Dq.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112430344
         },
         {
           "version": "20.07.06-5.1-feb23",
           "date" : "2025-02-23",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Full_Feb23rd_Moe-ZD.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112336219
         },
         {
           "version": "20.07.06-5.1-feb19",
           "date" : "2025-02-21",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Full_Feb19th_Moe-ON.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112000544
         },
         {
           "version": "20.07-5.1-feb17",
           "date" : "2025-02-17",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_07_06_YT_Lite5_1_Full_Feb17th_Moe-VF.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112430240
         },
         {
           "version": "20.06-5.1-feb12",
           "date" : "2025-02-11",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_06_03_YT_Lite5_1_Full_Feb12th_Moe-ue.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112351648
         },
         {
           "version": "20.05.4-5.1-feb10",
           "date" : "2025-02-10",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb10th_Moe-lK.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 113015004
         },
         {
           "version": "20.05.4-5.1-feb9",
           "date" : "2025-02-9",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Basic_Feb9th_Moe-WY.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112883682
         },
         {
           "version": "20.05.4-5.1-feb8",
           "date" : "2025-02-8",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb8th_Moe-O0.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 113015326
         },
         {
           "version": "20.05.4-5.1-feb7",
           "date" : "2025-02-7",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb7th_Moe-Wm.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 113015385
         },
         {
           "version": "20.05.4-5.1-feb3",
           "date" : "2025-02-2",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_05_4_YT_Lite5_1_Full_Feb3rd_Moe-zZ.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 113014829
         },
         {
           "version": "20.04.1-5.1-feb2",
           "date" : "2025-02-2",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_04_1_YT_Lite5_1_Full_Feb2nd_Moe-G7.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112795442
         },
         {
           "version": "20.04.1-5.1",
           "date" : "2025-01-30",
           "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_04_1_YT_Lite5_1_Full_Jan31st_Moe-I5.ipa",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "size": 112795248
         },
         {
@@ -3849,14 +3862,14 @@
         {
           "version": "20.09.3-3.0.4",
           "date" : "2025-03-03",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//u_You_Enhanced_20_09_3_3_0_4moe-i0.ipa",
           "size": 124506495
         },
         {
           "version": "20.04.1-3.0.4",
           "date" : "2025-01-30",
-          "localizedDescription": "From: Sultan Mods",
+          "localizedDescription": "From: ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//u_You_Enhanced_20_04_1_3_0_4-yb.ipa",
           "size": 123808196
         }
@@ -3868,8 +3881,8 @@
       "bundleIdentifier": "com.zhiliaoapp.musically1",
       "developerName": "ByteDance & moeotf",
       "subtitle": "TikTokAC - Stable TikTok Tweak",
-      "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: @SultanModsIPAs",
-      "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: @SultanModsIPAs",
+      "description": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: ethMods",
+      "localizedDescription": "One of the Best TikTok tweaks in terms of stability\nStatus: ✅\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280-tI.webp",
       "tintColor": "08f3da",
       "category": "social",
@@ -3968,14 +3981,14 @@
         {
           "version": "38.7.0-1.9.3",
           "date" : "2025-02-18",
-          "localizedDescription": "From: SultanModsX and compiled by moeotf", 
+          "localizedDescription": "From: ethMods and compiled by moeotf", 
           "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_BHTTPP_1_9_3_Moe-Xq.ipa",
           "size": 368852911
         },
         {
           "version": "38.2.0-1.9.3",
           "date" : "2025-01-17",
-          "localizedDescription": "From: SultanModsX and compiled by moeotf", 
+          "localizedDescription": "From: ethMods and compiled by moeotf", 
           "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_BHTTPP_1_9_3_OT_Moe-eY.ipa",
           "size": 361769877
         },
@@ -3993,8 +4006,8 @@
       "bundleIdentifier": "com.zhiliaoapp.musically", 
       "developerName": "ByteDance", 
       "subtitle": "The Stock TikTok Experience",
-      "description": "This is regular TikTok\nStatus: ✅\nPatched by Sultan Mods",
-      "localizedDescription": "This is regular TikTok\nStatus: ✅\nPatched by Sultan Mods",
+      "description": "This is regular TikTok\nStatus: ✅\nPatched by ethMods",
+      "localizedDescription": "This is regular TikTok\nStatus: ✅\nPatched by ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//tiktok_6338429_1280_1-jZ.webp",
       "tintColor": "08f3da",
       "category": "social",
@@ -4007,14 +4020,14 @@
         {
           "version": "38.7.0-patched",
           "date" : "2025-02-18",
-          "localizedDescription": "This version is patched for US Restrictions\nFrom: Sultan Mods", 
+          "localizedDescription": "This version is patched for US Restrictions\nFrom: ethMods", 
           "downloadURL": "https://cdn1.realmzer.xyz//Tiktok38_7_0_Stock_Tik_Tok_Moe-7W.ipa",
           "size": 368121251 
         },
         {
           "version": "38.2.0-patched",
           "date" : "2025-01-20",
-          "localizedDescription": "This version is patched for US Restrictions\nFrom: Sultan Mods", 
+          "localizedDescription": "This version is patched for US Restrictions\nFrom: ethMods", 
           "downloadURL": "https://cdn1.realmzer.xyz//Tik_Tok38_2_0_Stock_W_Ith_U_Sto_Canada_Fix-86.ipa",
           "size": 362717362
         }
@@ -4151,8 +4164,8 @@
       "bundleIdentifier": "co.appnation.geniechat",
       "subtitle": "Cracked Genie AI",
       "developerName": "OpenAI",
-      "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
-      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: @SultanModsIPAs",
+      "description": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: ethMods",
+      "localizedDescription": "Genie Al Chat Pro Cracked. Better than AI Chat Smith. Gives access to ChatGPT Premium models through a 3rd party app.\n\nStatus: ✅🔥🌟\nFrom: ethMods",
       "iconURL": "https://cdn1.realmzer.xyz//Genie_Pro_7_1_2-Km.png",
       "tintColor": "40e6b4",
       "category": "utilities",
@@ -4250,8 +4263,8 @@
       "bundleIdentifier": "com.woodsign.Widgy",
       "developerName" : "Woodsign",
       "subtitle": "Widgy Widgets - Edit Everything",
-      "description": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
-      "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by SultanMods\nStatus: ✅🌟",
+      "description": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by ethMods\nStatus: ✅🌟",
+      "localizedDescription": "With Widgy, your desktop becomes YOUR desktop. Create any widget you can imagine to perfectly match your style. Get all the info you need, exactly how you want it, without the clutter.\nCrack by ethMods\nStatus: ✅🌟",
       "iconURL": "https://cdn1.realmzer.xyz//widgy_widgets_logo-6A.png",
       "tintColor": "00d395",
       "category": "utilities",
@@ -4325,8 +4338,8 @@
       "bundleIdentifier": "com.choco",
       "developerName" : "@brits8882",
       "subtitle": "Check if AppGroups is setup correctly on your certificate ",
-      "description": "Check if AppGroups is setup correctly on your certificate\nFrom: @SultanModsX\nStatus: ✅",
-      "localizedDescription": "Check if AppGroups is setup correctly on your certificate\nFrom: @SultanModsX\nStatus: ✅",
+      "description": "Check if AppGroups is setup correctly on your certificate\nFrom: ethMods\nStatus: ✅",
+      "localizedDescription": "Check if AppGroups is setup correctly on your certificate\nFrom: ethMods\nStatus: ✅",
       "iconURL": "https://cdn1.realmzer.xyz//choco-TA.png",
       "tintColor": "c26265",
       "category": "utilities",
@@ -4515,7 +4528,7 @@
         {
           "version": "1.28.1",
           "date" : "2025-01-11",
-          "localizedDescription": "Patched by SultanMods",
+          "localizedDescription": "Patched by ethMods",
           "downloadURL": "https://cdn1.realmzer.xyz//Egern_1_28_1_Sultan_Mods_patched-hZ.ipa",
           "size": 18652362
         },
@@ -8654,13 +8667,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//flero_C1k2_Qq_1-Ed.png",
     "tintColor": "67f7f6",
     "category": "games",
-    "version": "0.0.7",
-    "versionDate" : "2025-01-29",
-    "downloadURL": "https://cdn1.realmzer.xyz//flero_0_0_7-sK.ipa",
-    "size": 183494172,
+    "version": "0.0.7-3",
+    "versionDate" : "2025-03-04",
+    "downloadURL": "https://cdn1.realmzer.xyz//flero_0_0_7_3-Bn.ipa",
+    "size": 157850503,
     "title": "Flero",
     "url": "https://flero.pages.dev/",
     "versions" : [
+      {
+        "version": "0.0.7-3",
+        "date" : "2025-03-04",
+        "downloadURL": "https://cdn1.realmzer.xyz//flero_0_0_7_3-Bn.ipa",
+        "size": 157850503
+      },
       {
         "version": "0.0.7",
         "date" : "2025-01-29",
@@ -8681,8 +8700,8 @@
     "bundleIdentifier": "com.picsart.studio1",
     "developerName" : "PicsArt & moeotf",
     "subtitle": "Picsart iProMoe - Cracked Picsart",
-    "description": "Picsart injected with GOLD pro\nStatus: ✅🌟\nFrom: @SultanModsIPAs",
-    "localizedDescription": "Picsart injected with GOLD pro\nStatus: ✅🌟\nFrom: @SultanModsIPAs",
+    "description": "Picsart injected with GOLD pro\nStatus: ✅🌟\nFrom: @ethMods",
+    "localizedDescription": "Picsart injected with GOLD pro\nStatus: ✅🌟\nFrom: @ethMods",
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
