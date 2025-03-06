@@ -3009,13 +3009,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//apollo-FI.png",
       "tintColor": "329dfd",
       "category": "social",
-      "version": "1.15.11_1.2.1",
-      "versionDate" : "2024-12-20",       
-      "downloadURL": "https://cdn1.realmzer.xyz//com_christianselig_Apollo_1_15_11_78653_patched_nofix-Eb.ipa",    
-      "size": 108564480,
+      "version": "1.15.11_1.2.2",
+      "versionDate" : "2025-03-06",       
+      "downloadURL": "https://cdn1.realmzer.xyz//Apollo_1_15_11_Improved_Custom_Api_1_2_2-H6.ipa",    
+      "size": 114650898,
       "title": "Apollo",
       "url": "https://github.com/Balackburn/Apollo/",
       "versions" : [
+        {
+          "version": "1.15.11_1.2.2",
+          "date" : "2025-03-06",       
+          "downloadURL": "https://cdn1.realmzer.xyz//Apollo_1_15_11_Improved_Custom_Api_1_2_2-H6.ipa",    
+          "size": 114650898
+        },
         {
           "version": "1.15.11_1.2.1",
           "date" : "2024-12-20",
@@ -8409,13 +8415,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version": "2025.225.0",
-    "versionDate": "2025-02-25",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_2-Ig.ipa",
-    "size": 197380082,
+    "version": "2025.306.0",
+    "versionDate": "2025-03-06",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_3-a2.ipa",
+    "size": 197880577,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions": [
+      {
+        "version": "2025.306.0",
+        "date": "2025-03-06",
+        "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_3-a2.ipa",
+        "size": 197880577
+      },
       {
         "version": "2025.225.0",
         "date": "2025-02-25",
@@ -8945,13 +8957,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//Fortnite_Main-SN.png",
     "tintColor": "b036e6",
     "category": "games",
-    "version": "34.00.2",
-    "versionDate" : "2025-02-28",
-    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_34_00_2-aq.ipa",
-    "size": 238353186,
+    "version": "34.00.3",
+    "versionDate" : "2025-03-06",
+    "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_v34_00_3_tg_glesign-s9.ipa",
+    "size": 225913542,
     "title": "Fortnite",
     "url": "https://epicgames.com",
     "versions" : [
+      {
+        "version": "34.00.3",
+        "date" : "2025-03-06",
+        "downloadURL": "https://cdn1.realmzer.xyz//Fortnite_v34_00_3_tg_glesign-s9.ipa",
+        "size": 225913542
+      },
       {
         "version": "34.00.2",
         "date" : "2025-02-28",
