@@ -2672,12 +2672,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//twitch-XD.png",
       "tintColor": "9145fd",
       "category": "entertainment",
-      "version": "23.4",
-      "versionDate" : "2025-03-03",
-      "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_4adfreemoe-BX.ipa",
-      "size": 117557167,
+      "version": "23.4 (Patched)",
+      "versionDate" : "2025-03-07",
+      "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_4adfree_Moe_2-Rr.ipa",
+      "size": 117075080,
       "title": "Twitch No Ads",
       "versions": [
+        {
+          "version": "23.4 (Patched)",
+          "date" : "2025-03-07",
+          "downloadURL": "https://cdn1.realmzer.xyz//Twitch23_4adfree_Moe_2-Rr.ipa",
+          "size": 117075080
+        },
         {
           "version": "23.4",
           "date" : "2025-03-03",
@@ -3452,12 +3458,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//com_burbn_instagram-b9.png",
       "tintColor": "fe0297",
       "category": "social",
-      "version": "370.0-1.71",
-      "versionDate": "2025-03-03",
-      "downloadURL": "https://cdn1.realmzer.xyz//Instagram370_0_0_IG_Format1_71_Moe-El.ipa",
-      "size": 147964108,
+      "version": "370.0-1.72",
+      "versionDate": "2025-03-07",
+      "downloadURL": "https://cdn1.realmzer.xyz//Instagram370_0_0_IG_Format1_72_Moe-zz.ipa",
+      "size": 147983400,
       "title": "Instagram IGFormat",
       "versions": [
+        {
+          "version": "370.0-1.72",
+          "date": "2025-03-07",
+          "downloadURL": "https://cdn1.realmzer.xyz//Instagram370_0_0_IG_Format1_72_Moe-zz.ipa",
+          "size": 147983400
+        },
         {
           "version": "370.0-1.71",
           "date": "2025-03-03",
@@ -8799,12 +8811,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "26.9.2",
-    "versionDate" : "2025-02-26",
-    "downloadURL": "https://cdn1.realmzer.xyz//Picsart26_9_2_Moe_Pro-cA.ipa",
-    "size": 100019913,
+    "version": "27.0.2",
+    "versionDate" : "2025-03-07",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart27_0_2_Pro_Moe-7b.ipa",
+    "size": 100003568,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "27.0.2",
+        "date" : "2025-03-07",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart27_0_2_Pro_Moe-7b.ipa",
+        "size": 100003568
+      },
       {
         "version": "26.9.2",
         "date" : "2025-02-26",
