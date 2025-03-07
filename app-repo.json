@@ -960,13 +960,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//icon256-9a.png",
       "tintColor": "03de60",
       "category": "utilities",
-      "version": "5.6.9",
-      "versionDate": "2024-12-04",
-      "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_6_9-j6.ipa",
-      "size": 6766592,
+      "version": "5.7.3",
+      "versionDate": "2025-03-06",
+      "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_7_3-HD.ipa",
+      "size": 6769362,
       "title": "GBox",
       "url": "https://gbox.run/",
       "versions": [
+        {
+          "version": "5.7.3",
+          "date": "2025-03-06",
+          "downloadURL": "https://cdn1.realmzer.xyz//G_Box_v5_7_3-HD.ipa",
+          "size": 6769362
+        },
         {
           "version": "5.6.9",
           "date": "2024-12-04",
@@ -2517,13 +2523,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//swiftgram-lS.png",
       "tintColor": "f56d3e",
       "category": "social",
-      "version": "11.6.2",
-      "versionDate" : "2025-01-25",
-      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_6_2_eeveedecrypter-oe.ipa",
-      "size": 79041531,
+      "version": "11.7.2",
+      "versionDate" : "2025-03-06",
+      "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_7_2_eeveedecrypter-7z.ipa",
+      "size": 81752706,
       "title": "Swiftgram",
       "url": "https://swiftgram.app/",
       "versions" : [
+        {
+          "version": "11.7.2",
+          "date" : "2025-03-06",
+          "downloadURL": "https://cdn1.realmzer.xyz//app_swiftgram_ios_11_7_2_eeveedecrypter-7z.ipa",
+          "size": 81752706
+        },
         {
           "version": "11.6.2",
           "date" : "2025-01-25",
@@ -7024,6 +7036,58 @@
           "date" : "2025-01-31",
           "downloadURL": "https://cdn1.realmzer.xyz//UTM_HV-5p.ipa",
           "size": 126284039
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "GBoxTS 2",
+      "bundleIdentifier": "com.ncs.gboxts",
+      "developerName": "GBox",
+      "subtitle": "GBox - IPA signer",
+      "description": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nImport into TrollStore 2 to install.\nWARNING: This app probably tracks you.\nStatus: ✅🔵",
+      "localizedDescription": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nImport into TrollStore 2 to install.\nWARNING: This app probably tracks you.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0015-2G.jpeg",
+      "tintColor": "03de60",
+      "category": "utilities",
+      "version": "5.6.6",
+      "versionDate": "2025-03-06",
+      "downloadURL": "https://cdn1.realmzer.xyz//G_Box_TS_v5_6_6-Kw.ipa",
+      "size": 7140957,
+      "title": "GBoxTS 2",
+      "url": "https://gbox.run/",
+      "versions": [
+        {
+          "version": "5.6.6",
+          "date": "2025-03-06",
+          "downloadURL": "https://cdn1.realmzer.xyz//G_Box_TS_v5_6_6-Kw.ipa",
+          "size": 7140957
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "GBoxTS 2 Installer",
+      "bundleIdentifier": "com.gboxts.installer0",
+      "developerName": "GBox",
+      "subtitle": "GBox - IPA signer",
+      "description": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nSupports iOS 15.4 ~ 15.7.1 Or iOS 16.0 ~ 16.6.1.\nWARNING: This app probably tracks you.\nStatus: ✅🔵",
+      "localizedDescription": "GBox is an iOS signer that doesn't need a computer, and is used for debugging and testing iOS Apps during the development phase.\nSupports iOS 15.4 ~ 15.7.1 Or iOS 16.0 ~ 16.6.1.\nWARNING: This app probably tracks you.\nStatus: ✅🔵",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_0014-gI.jpeg",
+      "tintColor": "000000",
+      "category": "utilities",
+      "version": "1.0.1",
+      "versionDate": "2025-03-06",
+      "downloadURL": "https://cdn1.realmzer.xyz//GBTS_Installer_X_v1_0_1-ZW.ipa",
+      "size": 7595412,
+      "title": "GBoxTS 2 Installer",
+      "url": "https://gbox.run/",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2025-03-06",
+          "downloadURL": "https://cdn1.realmzer.xyz//GBTS_Installer_X_v1_0_1-ZW.ipa",
+          "size": 7595412
         }
       ]
     },
