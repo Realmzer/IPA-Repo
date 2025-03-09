@@ -5048,12 +5048,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//App_Icon_2-Rc.png",
       "tintColor": "008afd",
       "category": "utilities",
-      "version": "3.1-30",
+      "version": "3.2-32",
       "versionDate" : "2025-03-09",
-      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_3_1_30-ct.tipa",
-      "size": 5609829,
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_3_2_32-KB.tipa",
+      "size": 5751201,
       "title": "TrollFools",
       "versions": [
+        {
+          "version": "3.2-32",
+          "date" : "2025-03-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Troll_Fools_3_2_32-KB.tipa",
+          "size": 5751201
+        },
         {
           "version": "3.1-30",
           "date" : "2025-03-09",
