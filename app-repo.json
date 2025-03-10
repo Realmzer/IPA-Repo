@@ -2317,12 +2317,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//Bunny_Pyoncord_224_0-4e.png",
       "tintColor": "5662f6",
       "category": "social",
-      "version": "270.0_73182",
-      "versionDate": "2025-03-08",
-      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-Wn.ipa",
-      "size": 87910394,
+      "version": "271.0_73194",
+      "versionDate": "2025-03-09",
+      "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-Le.ipa",
+      "size": 88053094,
       "title": "Bunny Discord",
       "versions" : [
+        {
+          "version": "271.0_73194",
+          "date": "2025-03-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Bunny_1-Le.ipa",
+          "size": 88053094
+        }, 
         {
           "version": "270.0_73182",
           "date": "2025-03-08",
@@ -3658,18 +3664,18 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.09.3-5.1-mar2",
-      "versionDate" : "2025-03-03",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_09_3_YT_Lite5_1_Basic_March2nd_Moe-I6.ipa",
-      "size": 113268598,
+      "version": "20.10.3-5.1-mar9",
+      "versionDate" : "2025-03-09",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_10_3_YT_Lite5_1_Basic_March9th_Moe-5M.ipa",
+      "size": 112734503,
       "title": "YouTube Plus",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
         {
-          "version": "20.09.3-5.1-mar2",
-          "date" : "2025-03-03",
-          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_09_3_YT_Lite5_1_Basic_March2nd_Moe-I6.ipa",
-          "size": 113268598,
+          "version": "20.10.3-5.1-mar9",
+          "date" : "2025-03-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_10_3_YT_Lite5_1_Basic_March9th_Moe-5M.ipa",
+          "size": 112734503,
           "localizedDescription": "From: ethMods"
         },
         {
@@ -3775,13 +3781,20 @@
       "iconURL": "https://cdn1.realmzer.xyz//ytlite-eD.png",
       "tintColor": "fcd2c9",
       "category": "entertainment",
-      "version": "20.09.3-5.1-mar2",
-      "versionDate" : "2025-03-03",
-      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_09_3_YT_Lite5_1_Full_March2nd_Moe-lC.ipa",
-      "size": 113399273,
+      "version": "20.10.3-5.1-mar9",
+      "versionDate" : "2025-03-09",
+      "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_10_3_YT_Lite5_1_March9th_Moe-PQ.ipa",
+      "size": 112864179,
       "title": "YouTube Plus + Tweaks",
       "url": "https://github.com/dayanch96/YTLite",
       "versions" : [
+        {
+          "version": "20.10.3-5.1-mar9",
+          "date" : "2025-03-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Youtube20_10_3_YT_Lite5_1_March9th_Moe-PQ.ipa",
+          "localizedDescription": "From: ethMods",
+          "size": 112864179
+        },
         {
           "version": "20.09.3-5.1-mar2",
           "date" : "2025-03-03",
@@ -4502,13 +4515,19 @@
       "iconURL": "https://cdn1.realmzer.xyz//movieboxpro-Uk.png",
       "tintColor": "fcd940",
       "category": "entertainment",
-      "version" : "14.3",
-      "versionDate" : "2025-01-31",
-      "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_3-5a.ipa",
-      "size": 48337682,
+      "version" : "14.5",
+      "versionDate" : "2025-03-09",
+      "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_5-p4.ipa",
+      "size": 48413286,
       "title": "MovieBox Pro",
       "url": "https://www.movieboxpro.app/",
       "versions" : [
+        {
+          "version" : "14.5",
+          "date" : "2025-03-09",
+          "downloadURL": "https://cdn1.realmzer.xyz//Movie_Box_Pro_14_5-p4.ipa",
+          "size": 48413286
+        },
         {
           "version" : "14.3",
           "date" : "2025-01-31",
@@ -8521,13 +8540,19 @@
     "iconURL": "https://cdn1.realmzer.xyz//osu-dk.png",
     "tintColor": "f863a6",
     "category": "games",
-    "version": "2025.306.0",
-    "versionDate": "2025-03-06",
-    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_3-a2.ipa",
-    "size": 197880577,
+    "version": "2025.310.0",
+    "versionDate": "2025-03-09",
+    "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-9o.ipa",
+    "size": 197843627,
     "title": "Osu!lazer",
     "url": "https://github.com/ppy/osu/",
     "versions": [
+      {
+       "version": "2025.310.0",
+       "date": "2025-03-09",
+       "downloadURL": "https://cdn1.realmzer.xyz//osu_i_OS_1-9o.ipa",
+       "size": 197843627
+      },
       {
         "version": "2025.306.0",
         "date": "2025-03-06",
@@ -8841,12 +8866,18 @@
     "iconURL": "https://cdn1.realmzer.xyz//Picsart_25_5_1_Cracked-49.png",
     "tintColor": "0eecec",
     "category": "photo-video",
-    "version": "27.0.2",
-    "versionDate" : "2025-03-07",
-    "downloadURL": "https://cdn1.realmzer.xyz//Picsart27_0_2_Pro_Moe-7b.ipa",
-    "size": 100003568,
+    "version": "27.0.3",
+    "versionDate" : "2025-03-09",
+    "downloadURL": "https://cdn1.realmzer.xyz//Picsart27_0_3_Moe_Pro-Ia.ipa",
+    "size": 100030382,
     "title": "Picsart iProMoe",
     "versions" : [
+      {
+        "version": "27.0.3",
+        "date" : "2025-03-09",
+        "downloadURL": "https://cdn1.realmzer.xyz//Picsart27_0_3_Moe_Pro-Ia.ipa",
+        "size": 100030382
+      },
       {
         "version": "27.0.2",
         "date" : "2025-03-07",
