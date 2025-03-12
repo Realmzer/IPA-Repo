@@ -1,4 +1,4 @@
-# THIS IS ARCHIVED NO LONGER BEING WORKED ON
+# THIS IS ARCHIVED AND NO LONGER BEING WORKED ON
 
 # IPA-Repo
 Realmzer's official iOS source. Github Mirror
